@@ -1,0 +1,1016 @@
+shipment_id,order_date,origin_city,destination_city,carrier,distance_km,weight_kg,delivery_time_days,shipping_cost_inr,status
+SHP10920,03-20-2024,Kolkata,Ahmedabad,Blue Dart,485.28,3.61,1.49,2073.74,Delivered
+SHP10619,2024-03-08,Ahmedabad,Mumbai,DHL,1041.5,7.19,4.31,5600.15,Delayed
+SHP10293,2024-02-11,Delhi,Chennai,blue dart,776.49,12.39,2.44,4742.85,Delivered
+SHP10507,30/04/2024,Hyderabad,Chennai,blue dart,720.39,2.73,2.07,3095.49,Delivered
+SHP10975,2024-07-10,Bengaluru,Delhi,ups,482.15,8.3,0.8,2304.69,Delayed
+SHP10248,17/11/2024,Pune,Hyderabad,Delhivery,880.69,23.71,4.06,5571.99,In Transit
+SHP10772,05/09/2024,Hyderabad,Delhi,delhivery,748.8,6.45,1.31,3786.42,Returned
+SHP10915,03-03-2024,Bengaluru,Kolkata,D.H.L,679.26,11.5,3.14,3837.28,Delivered
+SHP10329,2024-07-30,Bengaluru,Mumbai,dhl,795.54,17.12,4.05,3982.12,Delivered
+SHP10049,2024-01-16,Ahmedabad,Pune,BlueDart,677.46,20.28,1.93,3361.1,Delivered
+SHP10459,07-27-2024,Ahmedabad,Bengaluru,DHL,922.58,16.56,3.68,4497.01,Delivered
+SHP10142,24/02/2024,Ahmedabad,Delhi,FedEx,595.25,20.2,2.06,2533.19,Delivered
+SHP10382,03/01/2024,Chennai,Pune,blue dart,927.41,18.49,3.27,4528.31,In Transit
+SHP10250,15/07/2024,Bengaluru,Pune,DHL,848.58,13.5,3.72,5187.55,In Transit
+SHP10537,05-14-2024,Delhi,Pune,FEDEX,420.08,6.6,3.19,2066.56,Delivered
+SHP10133,2024-01-25,Jaipur,Bengaluru,DELHIVERY,15.0,10.06,0.5,209.56,Delayed
+SHP10104,22/04/2024,Nagpur,Bengaluru,delhivery,751.96,16.87,0.9,4746.37,Delivered
+SHP10006,10/04/2024,Ahmedabad,Kolkata,FEDEX,549.53,15.09,2.99,2215.39,Delivered
+SHP10886,2024-11-04,Pune,Bengaluru,blue dart,506.03,13.91,1.33,3087.15,Delayed
+SHP10509,2024-08-25,Nagpur,Bengaluru,D.H.L,336.99,9.4,1.18,1840.58,Delivered
+SHP10982,2024-12-20,Ahmedabad,Nagpur,FedEx,902.58,4.21,4.45,3785.06,Delivered
+SHP10574,2024-05-14,Kolkata,Bengaluru,BlueDart,735.86,26.59,2.76,4459.95,Delayed
+SHP10434,06/04/2024,Nagpur,Kolkata,DHL,15.0,23.39,1.75,378.72,In Transit
+SHP10027,22/08/2024,Ahmedabad,Bengaluru,blue dart,755.53,13.89,3.34,3175.39,Delivered
+SHP10998,2024-10-24,Jaipur,Hyderabad,Fed Ex,719.37,21.66,1.08,3502.15,Delivered
+SHP10119,27/02/2024,Chennai,Mumbai,Blue Dart,540.93,,1.17,3022.05,Delivered
+SHP10108,02-19-2024,Chennai,Pune,U.P.S.,603.89,34.69,1.77,2646.83,Delayed
+SHP10769,2024-12-25,Mumbai,Hyderabad,ups,523.96,12.88,1.01,3034.09,Delivered
+SHP10837,10-21-2024,Bengaluru,Kolkata,fedex,547.35,21.47,4.94,3361.08,Delivered
+SHP10846,09-20-2024,Jaipur,Hyderabad,blue dart,1275.08,14.31,5.97,6989.66,In Transit
+SHP10986,2024-05-24,Pune,Mumbai,blue dart,1105.73,22.28,6.12,6457.19,Delivered
+SHP10824,2024-01-05,Chennai,Delhi,D.H.L,967.57,18.89,3.75,5132.02,Delivered
+SHP10756,08/06/2024,Pune,Ahmedabad,DHL,171.84,18.48,0.84,1342.33,Delivered
+SHP10877,2024-02-13,Mumbai,Hyderabad,FEDEX,805.37,9.53,3.3,4501.54,In Transit
+SHP10274,03-21-2024,Kolkata,Jaipur,DELHIVERY,713.26,11.59,3.16,4192.35,Delivered
+SHP10200,15/03/2024,Bengaluru,Pune,ups,82.05,15.71,0.5,699.45,Delivered
+SHP10078,02-15-2024,Ahmedabad,Mumbai,Blue Dart,752.24,2.09,1.73,4008.59,Delivered
+SHP10658,2024-12-07,Jaipur,Bengaluru,ups,419.61,6.86,0.58,2478.11,Delayed
+SHP10262,25/01/2024,Ahmedabad,Hyderabad,Fed Ex,1073.05,16.79,6.45,5255.72,In Transit
+SHP10663,08-16-2024,Chennai,Kolkata,blue dart,182.47,21.23,0.5,1338.19,Delayed
+SHP10578,2024-09-15,Mumbai,Nagpur,BlueDart,656.09,5.47,3.06,3886.78,Delivered
+SHP10156,08-17-2024,Delhi,Ahmedabad,Fed Ex,143.8,5.85,1.42,729.68,Delivered
+SHP10090,28/09/2024,Delhi,Jaipur,DHL,316.67,4.52,2.51,1597.86,Delayed
+SHP10101,09-21-2024,Hyderabad,Kolkata,blue dart,911.17,35.19,3.53,5200.69,Delivered
+SHP10094,2024-05-11,Mumbai,Jaipur,ups,685.77,8.26,2.57,3456.52,Delivered
+SHP10521,11-07-2024,Ahmedabad,Bengaluru,Fed Ex,504.59,27.87,3.6,3617.05,Delayed
+SHP10546,2024-01-20,Nagpur,Jaipur,BlueDart,570.78,5.85,0.86,2449.95,In Transit
+SHP10041,2024-03-30,Mumbai,Jaipur,FedEx,806.35,10.77,1.23,4584.18,Delayed
+SHP10590,07/05/2024,Bengaluru,Nagpur,fedex,693.87,11.33,3.74,3090.71,Delivered
+SHP10870,06/05/2024,Jaipur,Delhi,Fed Ex,694.8,10.61,2.22,4198.12,Returned
+SHP10436,09-17-2024,Kolkata,Nagpur,dhl,978.84,7.18,3.92,3937.63,Delivered
+SHP10034,09-22-2024,Mumbai,Bengaluru,FedEx,285.03,7.53,2.3,1533.51,Delivered
+SHP10175,09/06/2024,Mumbai,Jaipur,BlueDart,988.21,14.37,4.03,5351.18,In Transit
+SHP10035,23/09/2024,Jaipur,Hyderabad,Blue Dart,1134.86,20.41,4.91,5600.94,In Transit
+SHP10148,14/05/2024,Delhi,Ahmedabad,blue dart,677.22,41.58,1.98,3679.14,Delayed
+SHP10779,21/06/2024,Delhi,Bengaluru,FedEx,508.97,4.69,2.98,2222.99,In Transit
+SHP10664,2024-04-26,Chennai,Ahmedabad,fedex,651.66,4.97,1.95,,Delivered
+SHP10688,21/11/2024,Bengaluru,Delhi,delhivery,873.32,9.82,3.56,4543.23,Delayed
+SHP10931,12-13-2024,Ahmedabad,Bengaluru,FedEx,361.88,10.39,1.16,1916.54,Delivered
+SHP10814,2024-05-11,Jaipur,,Delhivery,688.18,22.77,3.12,4472.0,Cancelled
+SHP10311,01-25-2024,Mumbai,Hyderabad,D.H.L,651.24,16.16,1.76,3942.44,In Transit
+SHP10703,12-21-2024,Kolkata,Bengaluru,BlueDart,400.79,1.45,1.74,2393.64,Delivered
+SHP10527,27/05/2024,Kolkata,Delhi,fedex,506.5,5.82,1.79,2792.72,Delivered
+SHP10746,04-04-2024,Bengaluru,Ahmedabad,blue dart,517.81,18.71,2.76,2476.89,Delayed
+SHP10640,05/02/2024,Hyderabad,Jaipur,DELHIVERY,820.01,30.35,3.83,3837.7,In Transit
+SHP10577,18/11/2024,Kolkata,Ahmedabad,ups,1081.18,21.36,3.93,4538.34,Delivered
+SHP10496,05-15-2024,Mumbai,Nagpur,delhivery,319.36,6.44,1.89,1704.2,Cancelled
+SHP10271,10/11/2024,Kolkata,Chennai,FEDEX,578.11,17.48,0.54,3464.44,In Transit
+SHP10940,28/05/2024,Chennai,Hyderabad,fedex,159.4,4.79,1.69,742.88,Delayed
+SHP10017,03-22-2024,Jaipur,Nagpur,ups,453.56,18.49,0.54,2991.11,Cancelled
+SHP10207,2024-12-13,Pune,Bengaluru,Fed Ex,351.7,21.38,0.5,1637.7,Delivered
+SHP10340,05/08/2024,Hyderabad,Kolkata,Blue Dart,546.45,0.37,1.66,2367.19,Delivered
+SHP10244,22/09/2024,Kolkata,Hyderabad,FEDEX,379.69,37.13,2.63,2592.81,Delivered
+SHP10650,05/05/2024,Bengaluru,Chennai,Fed Ex,1177.43,14.1,3.11,6191.84,Delivered
+SHP10241,05-18-2024,Ahmedabad,Pune,Fed Ex,190.14,8.67,0.5,1124.92,In Transit
+SHP10065,13/02/2024,Ahmedabad,Delhi,D.H.L,823.87,19.52,5.35,3808.55,Delivered
+SHP10358,2024-03-30,Kolkata,Pune,dhl,616.35,36.83,2.82,3552.23,In Transit
+SHP10314,26/09/2024,Kolkata,Mumbai,FEDEX,309.87,32.3,1.83,1952.23,Delayed
+SHP10560,2024-12-12,Hyderabad,Ahmedabad,DHL,601.89,3.43,,2347.38,In Transit
+SHP10191,2024-01-17,Delhi,Chennai,dhl,512.96,14.41,0.99,3110.58,In Transit
+SHP10368,09-03-2024,Kolkata,Hyderabad,D.H.L,372.18,30.44,2.68,2340.68,Delivered
+SHP10754,26/06/2024,Chennai,Kolkata,UPS,976.74,15.63,3.91,5010.96,Delivered
+SHP10652,10-27-2024,Hyderabad,Bengaluru,fedex,1022.64,10.8,3.89,4023.77,Delivered
+SHP10223,12-27-2024,Jaipur,Pune,ups,677.24,20.61,2.25,3938.31,Delivered
+SHP10186,2024-06-03,Jaipur,Nagpur,FEDEX,314.8,18.09,1.48,1807.35,Delivered
+SHP10180,2024-02-13,Mumbai,Hyderabad,blue dart,261.4,39.86,0.5,2018.82,In Transit
+SHP10268,01-11-2024,Mumbai,Kolkata,dhl,603.07,38.46,4.8,3012.22,Delivered
+SHP10825,2024-01-09,Hyderabad,Jaipur,dhl,596.92,7.09,1.37,3179.16,Cancelled
+SHP10582,09-27-2024,Jaipur,Nagpur,blue dart,846.1,19.47,1.88,3321.03,Delivered
+SHP10345,2024-12-28,Nagpur,Chennai,D.H.L,965.56,3.01,5.53,3935.63,Delivered
+SHP10795,05-20-2024,Kolkata,Ahmedabad,blue dart,827.19,20.95,1.62,4458.73,Delivered
+SHP10950,09-27-2024,Nagpur,Hyderabad,fedex,689.36,61.34,2.74,4718.82,Delivered
+SHP10699,09-23-2024,Nagpur,Ahmedabad,blue dart,339.95,32.84,0.52,2296.34,In Transit
+SHP10429,07-31-2024,Jaipur,,Fed Ex,861.39,5.67,4.05,3112.93,Delivered
+SHP10790,01-15-2024,Nagpur,Mumbai,UPS,389.18,20.02,0.5,2074.3,Delivered
+SHP10971,31/05/2024,Ahmedabad,Chennai,blue dart,682.47,25.84,3.71,4099.89,Delivered
+SHP10812,2024-05-30,Hyderabad,Ahmedabad,Delhivery,210.35,,1.46,1447.31,Delivered
+SHP10806,2024-04-21,Pune,Kolkata,Blue Dart,590.59,47.74,1.43,3518.5,Delivered
+SHP10408,07-07-2024,Hyderabad,Jaipur,D.H.L,840.41,11.66,2.9,4231.89,Delayed
+SHP10154,10/05/2024,Mumbai,Jaipur,blue dart,1043.61,,1.42,6218.31,Delayed
+SHP10581,01-08-2024,Nagpur,Delhi,DHL,662.71,10.15,3.31,3305.16,Delivered
+SHP10013,01/09/2024,Jaipur,Kolkata,Fed Ex,236.99,21.03,0.5,1529.61,Delivered
+SHP10680,17/10/2024,Jaipur,Mumbai,Fed Ex,1007.16,9.57,3.04,6091.63,Delivered
+SHP10481,01/12/2024,Ahmedabad,Chennai,delhivery,626.49,11.48,1.28,2808.02,Delivered
+SHP10962,12-25-2024,Pune,Mumbai,FEDEX,513.34,14.4,1.48,3143.18,In Transit
+SHP10762,15/06/2024,Mumbai,Chennai,UPS,792.65,8.61,,4037.68,In Transit
+SHP10692,12-01-2024,Kolkata,Pune,DELHIVERY,579.02,15.57,2.72,2307.55,Delivered
+SHP10879,11/09/2024,Delhi,Chennai,Delhivery,256.94,8.33,0.5,1216.43,Delayed
+SHP10727,2024-02-23,Ahmedabad,Pune,dhl,672.14,11.46,2.94,4116.16,Delivered
+SHP10873,2024-05-09,Kolkata,Pune,U.P.S.,594.32,33.66,1.63,3538.91,Delivered
+SHP10467,09/10/2024,Chennai,Kolkata,Blue Dart,615.3,15.39,1.32,3604.47,Delivered
+SHP10306,2024-04-06,Kolkata,Nagpur,blue dart,479.99,7.82,0.5,2970.23,Delivered
+SHP10267,07-23-2024,Delhi,Nagpur,DELHIVERY,1012.23,10.21,,5052.5,Delayed
+SHP10059,22/10/2024,Ahmedabad,,U.P.S.,574.24,17.45,2.0,3458.62,In Transit
+SHP10882,07-12-2024,Pune,Bengaluru,delhivery,474.44,34.03,0.5,2868.55,Delivered
+SHP10956,2024-11-26,Delhi,Pune,dhl,1042.84,21.54,3.82,6456.26,Delivered
+SHP10189,2024-11-23,Pune,Bengaluru,FedEx,1073.75,26.95,4.09,6676.26,Delivered
+SHP10607,08/09/2024,Nagpur,Jaipur,Blue Dart,722.91,10.35,3.12,2906.27,Delivered
+SHP10120,09/10/2024,Hyderabad,Nagpur,blue dart,775.24,3.82,3.73,2765.74,Cancelled
+SHP10798,09/09/2024,Jaipur,Nagpur,Blue Dart,877.72,8.2,5.03,5422.57,Delivered
+SHP10944,06-25-2024,Jaipur,Ahmedabad,Blue Dart,69.21,14.12,0.58,581.85,Delivered
+SHP10669,30/10/2024,Bengaluru,Kolkata,FEDEX,915.01,,4.38,5622.57,Delivered
+SHP10003,07-25-2024,Jaipur,Pune,fedex,528.08,8.71,,2169.07,Delivered
+SHP10195,2024-02-05,Kolkata,Nagpur,Delhivery,475.07,5.35,0.5,2342.74,In Transit
+SHP10205,2024-03-13,Hyderabad,Ahmedabad,delhivery,208.46,20.06,0.5,1495.26,Delivered
+SHP10331,30/04/2024,Delhi,Chennai,BlueDart,502.86,17.84,1.7,3096.39,Delayed
+SHP10926,2024-11-10,Bengaluru,Hyderabad,U.P.S.,776.81,18.81,4.79,,Delivered
+SHP10710,04-21-2024,Jaipur,Nagpur,ups,213.61,8.0,1.01,1182.47,Delayed
+SHP10718,03-25-2024,Jaipur,Nagpur,U.P.S.,637.36,,2.0,2334.74,In Transit
+SHP10491,2024-10-22,Mumbai,Kolkata,fedex,189.17,4.69,1.66,767.44,In Transit
+SHP10463,10-09-2024,Hyderabad,Mumbai,blue dart,783.78,12.3,1.79,,Delayed
+SHP10309,2024-04-02,Ahmedabad,Nagpur,Delhivery,537.95,,3.58,2383.9,Delivered
+SHP10780,2024-11-10,Mumbai,Kolkata,delhivery,582.81,0.7,1.92,2898.63,Returned
+SHP10002,09-28-2024,Delhi,Hyderabad,blue dart,445.72,30.36,1.43,2403.69,Delivered
+SHP10763,2024-05-13,Chennai,Delhi,blue dart,1115.71,18.18,4.79,4488.05,Delivered
+SHP10242,06/05/2024,Chennai,Delhi,delhivery,152.03,16.78,0.5,1000.38,Delivered
+SHP10888,14/10/2024,Chennai,Pune,FedEx,131.98,20.79,0.66,1017.16,Delivered
+SHP10966,06/08/2024,Ahmedabad,Pune,ups,826.57,7.46,0.68,4107.15,Delivered
+SHP10812,2024-05-30,Hyderabad,Ahmedabad,Delhivery,210.35,,1.46,1447.31,Delivered
+SHP10967,2024-02-27,Bengaluru,Delhi,UPS,572.57,1.3,2.04,2303.07,Delivered
+SHP10073,2024-08-06,Delhi,Mumbai,dhl,586.79,4.31,2.0,3347.68,Delivered
+SHP10117,12-13-2024,Delhi,Nagpur,Delhivery,959.06,,3.27,4676.19,Delayed
+SHP10389,2024-09-13,Mumbai,Nagpur,FedEx,1079.33,16.46,4.0,,Delivered
+SHP10494,08/07/2024,Nagpur,Hyderabad,Delhivery,244.46,4.39,1.91,1155.84,Delivered
+SHP10111,09-06-2024,Delhi,Chennai,BlueDart,471.17,,1.23,3064.55,Delivered
+SHP10005,26/08/2024,Hyderabad,Ahmedabad,dhl,839.39,3.24,2.72,3269.13,In Transit
+SHP10404,2024-09-02,Delhi,Chennai,dhl,781.98,29.9,2.09,4366.98,Delivered
+SHP10797,13/03/2024,Delhi,Kolkata,FedEx,632.15,27.59,1.97,3092.81,Delivered
+SHP10573,08/07/2024,Jaipur,Chennai,FedEx,830.33,8.44,2.99,4354.59,Cancelled
+SHP10482,20/11/2024,Bengaluru,Chennai,BlueDart,221.15,41.57,1.74,1736.68,Delivered
+SHP10823,05-28-2024,Nagpur,Delhi,FedEx,586.98,3.93,3.0,3315.34,Delivered
+SHP10473,02-19-2024,Kolkata,Nagpur,U.P.S.,1406.21,24.73,7.48,6568.25,Delivered
+SHP10008,06-30-2024,Chennai,Ahmedabad,blue dart,451.42,,2.29,1935.81,Delivered
+SHP10856,08-09-2024,Bengaluru,Jaipur,D.H.L,315.17,17.73,0.5,1998.84,Delivered
+SHP10056,20/05/2024,Ahmedabad,Bengaluru,blue dart,765.51,19.95,2.97,4795.11,Delayed
+SHP10258,2024-02-01,Delhi,Nagpur,fedex,1256.19,2.24,4.92,7008.55,Delayed
+SHP10850,13/09/2024,Nagpur,Bengaluru,Delhivery,306.89,22.98,0.83,1481.72,In Transit
+SHP10979,2024-06-28,Kolkata,Pune,DHL,622.8,13.58,0.78,2980.42,Cancelled
+SHP10702,08-05-2024,Jaipur,Kolkata,DELHIVERY,229.56,23.62,2.36,1617.62,Delayed
+SHP10084,07-13-2024,Jaipur,Ahmedabad,blue dart,301.38,1.24,1.24,1470.63,In Transit
+SHP10403,06/12/2024,Hyderabad,Bengaluru,FedEx,573.85,22.59,2.04,3360.29,Delivered
+SHP10159,2024-11-02,Bengaluru,Jaipur,Blue Dart,698.62,22.38,2.57,4144.02,Delayed
+SHP10720,08-17-2024,Bengaluru,Ahmedabad,fedex,818.38,5.55,3.46,,In Transit
+SHP10125,2024-08-26,Mumbai,Pune,ups,819.86,8.42,3.37,3842.43,Delivered
+SHP10834,04-29-2024,Hyderabad,Pune,DELHIVERY,296.42,5.45,1.34,1469.1,Delivered
+SHP10902,14/02/2024,Delhi,Ahmedabad,UPS,968.55,,3.66,3863.73,Delivered
+SHP10486,07/02/2024,Hyderabad,Delhi,Delhivery,869.92,12.36,3.83,4920.76,Cancelled
+SHP10354,08-16-2024,Nagpur,Bengaluru,Fed Ex,363.41,10.63,1.41,2067.05,In Transit
+SHP10785,10/09/2024,Jaipur,Delhi,blue dart,705.86,1.43,2.54,3010.67,In Transit
+SHP10809,11-04-2024,Kolkata,Bengaluru,D.H.L,456.83,63.9,1.32,3317.95,Cancelled
+SHP10388,04-09-2024,Kolkata,Bengaluru,ups,551.28,10.86,2.44,2479.57,Delivered
+SHP10339,06-05-2024,Nagpur,Ahmedabad,UPS,209.52,11.07,1.38,1035.23,Cancelled
+SHP10081,10/07/2024,Bengaluru,Pune,FedEx,113.99,12.11,1.48,703.21,Delivered
+SHP10238,07-15-2024,Nagpur,Ahmedabad,UPS,638.83,15.48,2.71,2942.24,Cancelled
+SHP10959,25/08/2024,Chennai,Hyderabad,D.H.L,524.28,19.59,2.47,3392.09,Delivered
+SHP10716,2024-08-11,Delhi,Ahmedabad,BlueDart,773.17,15.78,3.14,4658.02,Delivered
+SHP10202,16/10/2024,Jaipur,Nagpur,DELHIVERY,741.15,12.41,,3644.37,Delivered
+SHP10965,29/03/2024,Bengaluru,Hyderabad,FEDEX,945.58,26.99,3.32,5461.34,Delivered
+SHP10228,08-13-2024,Bengaluru,Hyderabad,fedex,852.54,0.76,3.74,3917.29,Cancelled
+SHP10997,06-03-2024,Kolkata,Pune,DELHIVERY,83.32,14.19,0.5,689.43,Delayed
+SHP10216,2024-12-09,Chennai,Jaipur,DHL,410.36,10.02,1.96,2175.37,Cancelled
+SHP10598,2024-10-08,Hyderabad,Ahmedabad,UPS,601.36,14.78,2.46,3022.66,Delayed
+SHP10050,06-08-2024,Mumbai,Delhi,dhl,975.59,17.49,3.59,,Delivered
+SHP10584,2024-07-30,Jaipur,Mumbai,blue dart,1228.21,10.06,,7201.5,In Transit
+SHP10516,2024-06-07,Bengaluru,Chennai,UPS,247.94,13.32,2.07,1176.52,Delivered
+SHP10831,2024-01-21,Jaipur,Pune,UPS,650.16,11.83,1.31,4078.82,Delivered
+SHP10602,18/02/2024,Jaipur,Mumbai,delhivery,848.96,0.3,4.24,3115.74,Delivered
+SHP10201,03-31-2024,Delhi,Mumbai,Blue Dart,709.51,6.88,3.23,4225.98,Delivered
+SHP10704,06-17-2024,Ahmedabad,Nagpur,delhivery,1162.97,43.04,4.45,5152.77,Delivered
+SHP10194,20/09/2024,Delhi,Kolkata,blue dart,815.56,26.97,2.17,4955.64,Delivered
+SHP10898,2024-12-12,Ahmedabad,Mumbai,FEDEX,340.0,16.22,0.56,2046.87,Delivered
+SHP10676,2024-08-07,Nagpur,Pune,D.H.L,376.73,11.63,0.5,,Delivered
+SHP10839,2024-05-12,Bengaluru,Delhi,delhivery,454.78,18.79,1.4,2218.63,Delivered
+SHP10236,06/11/2024,Mumbai,Bengaluru,U.P.S.,728.23,12.99,5.68,,Delivered
+SHP10593,01-24-2024,Jaipur,Chennai,,844.57,3.25,4.16,3811.22,Delayed
+SHP10255,2024-05-08,Chennai,Ahmedabad,DELHIVERY,816.57,2.32,3.05,4590.89,Delivered
+SHP10443,2024-09-17,Jaipur,Chennai,blue dart,473.04,4.7,0.5,2290.58,Delayed
+SHP10597,2024-10-18,Mumbai,Kolkata,D.H.L,1249.49,29.73,5.57,5547.98,Delivered
+SHP10559,09-14-2024,Ahmedabad,Mumbai,fedex,527.81,9.59,2.92,2460.25,Delivered
+SHP10990,14/07/2024,Jaipur,Nagpur,FedEx,870.8,1.97,3.29,3446.05,In Transit
+SHP10426,06/01/2024,Ahmedabad,Chennai,,812.18,49.4,3.26,4715.66,Cancelled
+SHP10452,13/09/2024,Mumbai,Nagpur,BlueDart,764.51,12.79,4.04,3551.75,Delivered
+SHP10989,2024-09-06,Mumbai,Kolkata,Delhivery,586.63,16.35,2.51,3443.76,In Transit
+SHP10479,09-29-2024,Mumbai,Ahmedabad,ups,543.02,16.05,1.11,2406.21,Delivered
+SHP10047,08/05/2024,Delhi,Chennai,Delhivery,173.13,1.34,,,Delivered
+SHP10529,10-11-2024,Bengaluru,Mumbai,Blue Dart,56.82,32.77,0.61,956.91,In Transit
+SHP10647,2024-12-03,Pune,Nagpur,FEDEX,532.89,6.06,2.64,3097.97,Delayed
+SHP10019,01/07/2024,Mumbai,Nagpur,ups,1167.1,11.56,3.56,5240.78,Returned
+SHP10725,22/09/2024,Delhi,Pune,FEDEX,274.63,12.42,1.44,1698.35,Delivered
+SHP10783,03-19-2024,Kolkata,Pune,Fed Ex,611.39,5.72,,2517.55,Delivered
+SHP10341,12-08-2024,Bengaluru,Nagpur,Fed Ex,371.5,19.0,1.2,2336.67,Delivered
+SHP10686,24/12/2024,Jaipur,Chennai,blue dart,805.46,48.2,2.05,5256.62,Cancelled
+SHP10679,09-21-2024,Pune,Kolkata,fedex,414.41,40.48,0.64,2389.11,Delivered
+SHP10629,2024-04-11,Jaipur,Chennai,BlueDart,631.1,2.59,3.55,3135.09,Delayed
+SHP10592,07-14-2024,Mumbai,Pune,BlueDart,646.61,18.93,3.55,3056.5,Delivered
+SHP10836,03/10/2024,Mumbai,Jaipur,ups,708.11,16.37,2.79,3455.61,Delivered
+SHP10933,2024-05-25,Jaipur,Nagpur,FEDEX,639.95,15.6,1.79,3594.52,In Transit
+SHP10364,27/12/2024,Mumbai,Chennai,delhivery,485.9,12.83,2.39,2035.69,Delivered
+SHP10177,2024-02-10,Pune,Nagpur,DELHIVERY,851.37,6.83,2.91,3579.66,Cancelled
+SHP10644,29/03/2024,Hyderabad,Delhi,blue dart,652.68,17.69,2.03,2885.62,Returned
+SHP10060,17/12/2024,Pune,Chennai,DELHIVERY,720.63,16.07,,2916.0,Delayed
+SHP10788,02-23-2024,Chennai,Kolkata,DELHIVERY,593.08,11.51,4.52,3606.62,Delivered
+SHP10992,04-26-2024,Nagpur,Kolkata,ups,199.59,2.37,1.24,1074.31,Delivered
+SHP10304,02-05-2024,Mumbai,Kolkata,fedex,420.06,4.33,1.35,2578.95,In Transit
+SHP10923,06/01/2024,Chennai,Bengaluru,FedEx,791.08,5.27,3.13,4490.98,In Transit
+SHP10673,08/10/2024,Mumbai,Jaipur,Blue Dart,860.47,19.9,2.4,3587.99,Delivered
+SHP10773,2024-07-29,Hyderabad,Kolkata,D.H.L,505.47,25.91,2.68,3083.89,Delayed
+SHP10107,2024-04-21,Jaipur,Ahmedabad,fedex,277.47,11.33,0.5,1360.78,Delivered
+SHP10759,28/05/2024,Bengaluru,Jaipur,Blue Dart,324.45,35.77,0.78,2257.89,Delivered
+SHP10802,10/12/2024,Jaipur,Ahmedabad,ups,1330.88,13.13,3.65,6253.58,Delivered
+SHP10587,20/08/2024,Nagpur,Mumbai,DHL,987.48,5.48,3.7,4895.05,Delivered
+SHP10819,09/02/2024,Mumbai,Chennai,D.H.L,1857.75,21.82,6.79,9939.91,Delivered
+SHP10099,08-12-2024,Hyderabad,Kolkata,D.H.L,716.94,20.77,3.97,4086.71,Delivered
+SHP10233,07-27-2024,Kolkata,Ahmedabad,U.P.S.,15.0,9.33,,302.97,Delivered
+SHP10242,06/05/2024,Chennai,Delhi,delhivery,152.03,16.78,0.5,1000.38,Delivered
+SHP10502,2024-05-11,Kolkata,Jaipur,fedex,986.93,48.05,4.56,4784.28,Delivered
+SHP10439,09-03-2024,Hyderabad,Kolkata,UPS,292.44,36.17,0.5,1585.85,Delayed
+SHP10419,16/08/2024,Hyderabad,Jaipur,Blue Dart,467.27,33.32,2.17,2851.53,Delivered
+SHP10543,06-17-2024,Nagpur,Jaipur,blue dart,609.85,8.79,2.12,3264.9,Delivered
+SHP10395,19/09/2024,Nagpur,Mumbai,Delhivery,838.25,16.93,,3156.97,Delivered
+SHP10366,02/06/2024,Hyderabad,Chennai,DHL,638.33,21.17,2.09,3412.54,Delivered
+SHP10181,2024-02-22,Chennai,Kolkata,dhl,15.0,5.54,1.17,139.79,Delivered
+SHP10012,04-19-2024,Pune,Mumbai,fedex,703.78,15.74,3.17,2941.26,Delivered
+SHP10623,06-12-2024,Hyderabad,Nagpur,delhivery,31.84,31.53,0.5,526.33,In Transit
+SHP10085,03-17-2024,Jaipur,Kolkata,DELHIVERY,311.67,,0.92,,Delivered
+SHP10810,28/12/2024,Delhi,Kolkata,UPS,1020.9,30.24,2.22,4806.09,Delivered
+SHP10861,11-02-2024,Mumbai,Hyderabad,DHL,638.8,10.31,,2526.27,Delivered
+SHP10969,2024-10-11,Mumbai,Chennai,BlueDart,680.39,27.75,3.23,4376.24,Delivered
+SHP10608,2024-03-17,Bengaluru,Hyderabad,blue dart,909.21,20.63,,4290.95,Delivered
+SHP10170,2024-06-22,Nagpur,Chennai,Delhivery,946.56,17.46,2.29,5319.89,Delivered
+SHP10635,04/08/2024,Pune,Hyderabad,UPS,553.39,,2.64,2675.26,Delivered
+SHP10135,2024-03-30,Jaipur,Delhi,FedEx,612.86,,3.33,3264.84,Returned
+SHP10576,05/05/2024,Bengaluru,Chennai,FedEx,387.47,5.48,2.92,1620.8,Delivered
+SHP10301,05-22-2024,Delhi,Hyderabad,dhl,1259.42,13.0,5.01,7597.25,Delivered
+SHP10160,05-03-2024,Pune,Mumbai,UPS,958.63,1.05,3.68,5308.19,Delivered
+SHP10600,2024-01-11,Ahmedabad,Nagpur,fedex,1463.16,4.36,5.75,8528.09,Delivered
+SHP10320,2024-03-29,Nagpur,Pune,FEDEX,467.53,6.81,0.5,1910.02,Returned
+SHP10474,07-22-2024,Chennai,Kolkata,DHL,695.46,,3.58,3041.78,Delayed
+SHP10921,29/09/2024,Chennai,Ahmedabad,FEDEX,3257.961791172422,18.16,1.78,1908.74,Delivered
+SHP10525,10/09/2024,Delhi,Mumbai,Delhivery,631.91,74.39,3.14,3739.13,In Transit
+SHP10542,01-12-2024,Mumbai,,blue dart,480.56,16.63,1.72,1936.06,Delivered
+SHP10838,02-12-2024,Delhi,Mumbai,U.P.S.,863.59,17.99,3.08,5253.26,Delayed
+SHP10121,04-19-2024,Hyderabad,Delhi,DELHIVERY,607.7,36.24,3.18,3134.61,Delivered
+SHP10743,2024-11-24,Ahmedabad,Mumbai,UPS,1159.01,5.31,3.41,6432.68,Delivered
+SHP10187,2024-02-10,Kolkata,Delhi,FedEx,913.69,3.08,3.69,4495.06,Delivered
+SHP10016,14/08/2024,Jaipur,Nagpur,U.P.S.,360.46,7.16,2.28,1721.32,Delivered
+SHP10848,2024-07-31,Bengaluru,Kolkata,DHL,658.31,44.69,4.09,3978.49,Delivered
+SHP10487,2024-05-12,Jaipur,Bengaluru,BlueDart,772.61,19.76,2.63,3462.89,In Transit
+SHP10464,11-20-2024,Mumbai,Kolkata,dhl,15.0,,0.86,221.89,Delivered
+SHP10349,2024-12-23,Ahmedabad,Mumbai,Blue Dart,663.95,14.01,2.33,3956.0,Delivered
+SHP10724,12-05-2024,Delhi,Jaipur,DHL,780.48,9.25,3.26,3620.17,Delivered
+SHP10480,2024-07-20,Mumbai,Nagpur,Delhivery,15.0,9.71,0.96,258.78,Delivered
+SHP10106,04-25-2024,Ahmedabad,Hyderabad,dhl,363.56,26.13,0.69,2113.52,Cancelled
+SHP10818,05-22-2024,Hyderabad,Jaipur,dhl,353.07,30.39,1.35,1709.43,Delivered
+SHP10023,2024-06-17,Delhi,Pune,blue dart,394.03,10.58,1.89,1724.04,Delayed
+SHP10844,10/05/2024,Mumbai,Nagpur,DELHIVERY,621.15,28.72,1.9,3900.94,Delivered
+SHP10069,04-03-2024,Delhi,Nagpur,D.H.L,1364.78,18.16,6.28,6854.28,In Transit
+SHP10742,2024-08-15,Delhi,Pune,D.H.L,851.9,9.18,3.47,5019.77,Delivered
+SHP10453,09-28-2024,Chennai,Ahmedabad,delhivery,739.38,6.99,2.28,3993.67,Delayed
+SHP10554,2024-01-25,Mumbai,Chennai,DHL,892.03,35.14,3.27,5792.71,Delivered
+SHP10649,07/04/2024,Kolkata,Bengaluru,BlueDart,975.12,5.69,3.72,,In Transit
+SHP10654,2024-08-13,Hyderabad,Delhi,fedex,513.93,34.87,1.73,2500.2,Delivered
+SHP10347,08-07-2024,Bengaluru,Mumbai,BlueDart,615.4,27.62,2.84,3593.64,Returned
+SHP10372,2024-05-27,Delhi,Hyderabad,UPS,319.83,2.24,1.81,1307.12,Delivered
+SHP10887,12-10-2024,Delhi,Bengaluru,blue dart,732.09,18.35,2.93,3877.1,In Transit
+SHP10074,2024-08-08,Jaipur,Chennai,U.P.S.,373.13,34.83,0.5,2455.92,Delivered
+SHP10218,09-20-2024,Bengaluru,Jaipur,FEDEX,717.29,,3.55,3558.01,Delivered
+SHP10535,09-12-2024,Bengaluru,Hyderabad,D.H.L,192.24,17.69,1.07,1309.98,Delivered
+SHP10265,2024-08-30,Nagpur,Kolkata,fedex,929.11,6.85,3.03,5319.0,Delivered
+SHP10935,30/10/2024,Kolkata,Delhi,fedex,834.1,13.1,3.18,5131.14,Delivered
+SHP10110,2024-07-29,Nagpur,Jaipur,UPS,723.13,11.83,3.0,,Delayed
+SHP10985,2024-06-01,Pune,Mumbai,Delhivery,987.93,4.38,4.85,5584.23,Delivered
+SHP10995,2024-08-26,Bengaluru,Ahmedabad,DHL,574.35,2.29,3.04,3075.64,Delivered
+SHP10298,2024-07-11,Bengaluru,Hyderabad,blue dart,424.78,38.51,1.41,3256.48,In Transit
+SHP10185,07-31-2024,Chennai,Jaipur,,1016.52,21.16,4.93,6586.82,Cancelled
+SHP10286,07-17-2024,Bengaluru,Delhi,Blue Dart,739.68,21.6,2.84,4819.63,Delivered
+SHP10804,2024-04-19,Mumbai,Ahmedabad,ups,880.55,12.43,,4961.08,Delivered
+SHP10370,01-10-2024,Pune,Kolkata,D.H.L,532.08,33.03,2.39,2884.12,Delivered
+SHP10457,12-02-2024,Ahmedabad,Nagpur,dhl,571.29,11.66,2.38,2587.84,In Transit
+SHP10428,03-25-2024,Kolkata,Ahmedabad,Delhivery,812.75,83.68,3.67,4731.61,Delayed
+SHP10061,06-11-2024,Ahmedabad,,Fed Ex,722.5,2.12,4.16,3578.74,Cancelled
+SHP10815,2024-10-01,Chennai,Delhi,dhl,914.66,15.68,3.77,5224.59,In Transit
+SHP10335,2024-02-22,Mumbai,Bengaluru,DHL,1576.55,19.4,,,Delivered
+SHP10472,08/10/2024,Mumbai,Pune,Delhivery,693.65,12.49,2.15,3314.7,Delivered
+SHP10713,2024-09-14,Jaipur,Pune,UPS,262.12,14.69,3.07,1437.45,In Transit
+SHP10651,12-26-2024,Hyderabad,Nagpur,ups,639.21,21.11,2.51,3693.36,Delayed
+SHP10817,11-08-2024,Pune,Hyderabad,U.P.S.,862.56,3.55,2.58,3649.75,Delivered
+SHP10778,07-13-2024,Ahmedabad,Mumbai,dhl,809.67,12.14,1.72,4408.82,Returned
+SHP10865,2024-10-24,Nagpur,Ahmedabad,DHL,678.88,42.42,2.41,3506.87,Delivered
+SHP10307,16/09/2024,Bengaluru,Chennai,Fed Ex,653.97,22.47,2.89,3789.29,Delivered
+SHP10858,2024-03-11,Bengaluru,,Blue Dart,263.78,13.64,1.25,1707.41,Delivered
+SHP10134,16/12/2024,Jaipur,Chennai,blue dart,204.48,29.79,0.8,1347.84,Delivered
+SHP10033,12-05-2024,Pune,Hyderabad,DELHIVERY,869.23,2.8,2.96,4393.21,Delayed
+SHP10776,01-18-2024,Nagpur,Kolkata,fedex,389.08,8.48,0.86,,Delayed
+SHP10355,2024-01-23,Pune,Bengaluru,delhivery,1046.64,,5.83,51215.09507758082,Delayed
+SHP10057,2024-04-04,Kolkata,Chennai,DELHIVERY,495.87,-6.1,2.03,2047.58,Delivered
+SHP10414,11/12/2024,Delhi,Hyderabad,D.H.L,644.07,6.54,3.33,2500.49,Delivered
+SHP10631,19/07/2024,Bengaluru,Pune,DHL,656.15,22.8,,4194.97,Delivered
+SHP10764,14/01/2024,Hyderabad,Kolkata,Fed Ex,473.89,3.5,1.67,2591.63,Delivered
+SHP10900,16/10/2024,Kolkata,Hyderabad,U.P.S.,825.0,31.21,3.19,5400.41,Delivered
+SHP10579,11/06/2024,Jaipur,Hyderabad,Delhivery,1421.1,3.03,5.22,7946.66,Delivered
+SHP10318,2024-08-10,Nagpur,Mumbai,DELHIVERY,312.52,31.14,3.22,1869.07,Delivered
+SHP10291,2024-08-30,Hyderabad,Chennai,,446.75,,0.5,1923.98,Delivered
+SHP10046,20/12/2024,Pune,Bengaluru,,1235.3,,6.02,6571.55,In Transit
+SHP10277,2024-08-09,Mumbai,Pune,blue dart,642.31,9.59,5.03,3143.59,Delivered
+SHP10854,11-11-2024,Delhi,Bengaluru,FedEx,943.09,12.44,5.24,5005.76,Cancelled
+SHP10941,2024-01-14,Bengaluru,Nagpur,Delhivery,630.2,7.83,2.37,2486.63,Delivered
+SHP10224,06/08/2024,Kolkata,Jaipur,FedEx,1037.51,41.42,4.16,5811.81,Delayed
+SHP10912,2024-03-30,Jaipur,Ahmedabad,Delhivery,590.12,9.58,1.79,3172.79,Delivered
+SHP10280,10-03-2024,Jaipur,Pune,D.H.L,916.74,8.48,5.42,4386.41,Delayed
+SHP10094,2024-05-11,Mumbai,Jaipur,ups,685.77,8.26,2.57,3456.52,Delivered
+SHP10000,02/11/2024,Mumbai,Hyderabad,UPS,338.0,22.68,0.5,,Delivered
+SHP10851,2024-02-17,Ahmedabad,Mumbai,U.P.S.,952.64,12.45,3.04,5363.94,Delivered
+SHP10768,07-11-2024,Chennai,Mumbai,U.P.S.,114.01,28.51,0.5,,Delivered
+SHP10683,08-09-2024,Pune,Bengaluru,D.H.L,239.45,35.07,1.48,1727.43,Delivered
+SHP10066,2024-05-08,Delhi,Jaipur,D.H.L,268.77,2.26,2.92,1065.9,Delivered
+SHP10951,09-30-2024,Bengaluru,Jaipur,Delhivery,107.95,11.11,0.5,855.21,Delayed
+SHP10733,2024-07-16,Hyderabad,Chennai,fedex,563.1,28.21,0.5,3385.96,Returned
+SHP10415,2024-11-22,Nagpur,Mumbai,Delhivery,120.62,19.86,0.5,919.78,Delivered
+SHP10983,29/03/2024,Kolkata,Jaipur,BlueDart,403.46,1.39,,1570.84,Delivered
+SHP10677,2024-08-06,Mumbai,Chennai,dhl,814.43,3.0,2.99,3576.95,Delivered
+SHP10294,07/12/2024,Jaipur,Chennai,Delhivery,892.56,8.34,3.03,4675.67,Cancelled
+SHP10685,04-05-2024,Chennai,Hyderabad,FEDEX,915.14,9.72,3.31,4599.15,Delivered
+SHP10755,12-20-2024,Mumbai,Delhi,blue dart,751.54,,2.95,3302.33,Delivered
+SHP10245,19/05/2024,Ahmedabad,Hyderabad,UPS,91.64,10.64,,530.95,Cancelled
+SHP10257,2024-06-28,Hyderabad,Jaipur,D.H.L,163.42,20.74,1.06,1194.13,In Transit
+SHP10161,01/03/2024,Delhi,Chennai,dhl,932.83,5.53,2.32,4875.22,Returned
+SHP10734,22/06/2024,Bengaluru,Pune,blue dart,499.6,5.62,1.9,1853.5,Delivered
+SHP10614,30/08/2024,Mumbai,Bengaluru,D.H.L,493.78,6.21,2.07,2552.48,Delivered
+SHP10528,2024-11-05,Nagpur,Hyderabad,UPS,872.07,8.43,2.77,3338.6,Delivered
+SHP10449,06/09/2024,Kolkata,Chennai,Blue Dart,153.39,19.57,2.52,759.97,Returned
+SHP10868,2024-03-05,Delhi,Bengaluru,FEDEX,1141.86,,3.58,7245.64,Delayed
+SHP10963,20/01/2024,Chennai,Ahmedabad,UPS,626.31,8.77,2.74,3283.21,In Transit
+SHP10446,2024-12-21,Mumbai,Nagpur,U.P.S.,510.32,7.43,3.31,2669.38,Delayed
+SHP10247,2024-03-13,Delhi,Chennai,BlueDart,948.66,12.04,2.82,4090.84,Delivered
+SHP10550,12/08/2024,Kolkata,Nagpur,ups,444.62,14.38,0.5,2095.38,Delivered
+SHP10239,2024-10-05,Jaipur,Ahmedabad,UPS,544.32,18.93,3.3,2831.61,Cancelled
+SHP10220,07/02/2024,Pune,Chennai,Delhivery,560.1,4.3,2.72,2099.92,In Transit
+SHP10842,2024-09-23,Chennai,Pune,UPS,1254.62,19.57,3.16,7365.57,In Transit
+SHP10092,2024-08-13,Delhi,Hyderabad,DHL,605.77,37.38,2.2,2794.4,Delayed
+SHP10114,2024-05-04,Bengaluru,Kolkata,fedex,353.41,18.55,1.18,1634.63,Delayed
+SHP10781,28/02/2024,Bengaluru,Chennai,D.H.L,959.42,35.16,2.68,5631.1,Delivered
+SHP10994,2024-06-07,Chennai,Mumbai,U.P.S.,903.46,9.21,2.21,3565.27,Cancelled
+SHP10076,22/07/2024,Pune,Ahmedabad,DHL,679.71,25.44,2.35,4184.17,Cancelled
+SHP10996,2024-03-04,Mumbai,Jaipur,DELHIVERY,555.34,8.32,1.88,2800.01,Delivered
+SHP10674,2024-09-25,Kolkata,Delhi,DELHIVERY,151.7,23.71,,985.06,Delivered
+SHP10386,26/03/2024,Ahmedabad,Jaipur,Delhivery,15.0,6.46,0.5,200.9,In Transit
+SHP10132,23/09/2024,Ahmedabad,Delhi,,360.39,13.89,2.06,1952.0,Returned
+SHP10530,06-24-2024,Nagpur,Jaipur,U.P.S.,174.06,8.49,0.5,745.8,Cancelled
+SHP10553,09-04-2024,Mumbai,Bengaluru,blue dart,93.19,31.3,0.93,909.0,In Transit
+SHP10058,20/10/2024,Pune,Jaipur,DHL,814.53,15.37,3.52,4582.28,Returned
+SHP10289,2024-08-08,Bengaluru,Delhi,U.P.S.,1079.28,33.05,5.89,4207.98,In Transit
+SHP10246,11-24-2024,Jaipur,Nagpur,delhivery,193.34,27.01,0.53,1379.69,Delivered
+SHP10374,04-12-2024,Pune,Ahmedabad,Blue Dart,778.24,63.01,3.03,5305.66,Delayed
+SHP10885,24/06/2024,Pune,Chennai,DHL,15.0,33.8,0.5,589.93,In Transit
+SHP10040,2024-10-22,Pune,Jaipur,blue dart,451.29,14.81,2.34,2031.12,Delayed
+SHP10089,10-09-2024,Mumbai,Kolkata,Delhivery,867.28,13.99,3.46,3975.12,Delayed
+SHP10192,07-26-2024,Ahmedabad,Chennai,Delhivery,308.92,1.16,0.5,1415.61,Delayed
+SHP10435,2024-07-04,Nagpur,Pune,D.H.L,177.84,6.24,1.16,1105.62,In Transit
+SHP10068,2024-04-19,Bengaluru,Nagpur,DELHIVERY,165.3,18.96,1.45,1123.31,Delivered
+SHP10672,05/10/2024,Jaipur,Delhi,ups,453.72,17.15,0.5,2417.73,Delayed
+SHP10437,2024-03-28,Nagpur,Delhi,UPS,661.36,13.79,2.59,2994.15,Delivered
+SHP10383,2024-10-25,Nagpur,Jaipur,FEDEX,378.07,18.67,1.89,1917.29,Delivered
+SHP10139,12-02-2024,Delhi,Jaipur,D.H.L,1048.59,30.78,5.02,6621.09,Delivered
+SHP10953,11-20-2024,Ahmedabad,Jaipur,dhl,874.69,4.54,3.49,3575.79,Delayed
+SHP10483,08-21-2024,Kolkata,Delhi,blue dart,1131.91,30.06,5.59,4884.35,Delivered
+SHP10118,05-15-2024,Jaipur,Hyderabad,Delhivery,224.69,4.45,0.5,1185.83,Delayed
+SHP10430,2024-12-30,Ahmedabad,Delhi,DELHIVERY,395.44,5.17,1.55,2013.98,Delivered
+SHP10937,31/01/2024,Pune,Nagpur,DELHIVERY,226.59,55.37,0.85,1980.22,In Transit
+SHP10803,12-03-2024,Jaipur,Pune,dhl,1170.81,8.52,3.95,6021.14,In Transit
+SHP10350,24/09/2024,Mumbai,Kolkata,Blue Dart,861.26,45.1,2.6,,Delayed
+SHP10740,2024-06-20,Chennai,Delhi,Fed Ex,747.18,14.88,2.13,3496.66,In Transit
+SHP10700,2024-01-13,Delhi,Hyderabad,ups,839.13,8.1,1.73,4867.14,In Transit
+SHP10422,01-10-2024,Kolkata,Jaipur,DELHIVERY,582.33,16.73,2.24,3025.75,Delayed
+SHP10385,16/09/2024,Nagpur,Jaipur,DELHIVERY,836.02,2.49,3.29,3273.48,Delivered
+SHP10946,2024-08-10,Pune,Delhi,Blue Dart,518.97,10.29,1.57,2212.65,Delivered
+SHP10612,06-21-2024,Delhi,Bengaluru,UPS,246.68,,1.86,1202.63,Delivered
+SHP10014,01-04-2024,Chennai,Jaipur,Delhivery,353.14,1.21,1.0,1635.98,Delayed
+SHP10375,2024-01-04,Chennai,Nagpur,DHL,600.3,5.1,1.51,3216.73,Delivered
+SHP10082,10/05/2024,Hyderabad,Pune,blue dart,1036.2,28.23,3.83,5247.26,Delayed
+SHP10504,16/11/2024,Delhi,Jaipur,blue dart,516.09,7.9,3.19,2646.93,Delivered
+SHP10708,2024-02-20,Bengaluru,Hyderabad,FEDEX,491.66,17.12,,2962.79,Delivered
+SHP10786,2024-04-14,Nagpur,Ahmedabad,ups,364.08,8.21,1.42,1567.6,Delivered
+SHP10523,05-23-2024,Jaipur,Delhi,Delhivery,1134.88,15.24,2.65,,Delayed
+SHP10088,2024-02-16,Delhi,Mumbai,DHL,632.48,14.22,1.19,3281.18,Delivered
+SHP10363,2024-09-26,Nagpur,Hyderabad,UPS,248.74,21.17,0.93,1554.59,Delivered
+SHP10273,2024-01-10,Chennai,Ahmedabad,dhl,1069.74,25.82,4.67,6499.23,Delivered
+SHP10589,06-02-2024,Hyderabad,Kolkata,Delhivery,821.72,24.7,3.56,4642.2,Delivered
+SHP10172,09/02/2024,Hyderabad,Ahmedabad,Blue Dart,275.28,18.03,0.5,1421.84,In Transit
+SHP10563,2024-03-04,Pune,Delhi,FedEx,598.12,15.1,1.81,3693.6,Delivered
+SHP10103,2024-10-06,Bengaluru,Mumbai,DELHIVERY,279.56,34.47,0.5,1856.73,Delivered
+SHP10766,14/06/2024,Chennai,Ahmedabad,delhivery,543.84,8.87,2.44,2159.61,Delivered
+SHP10455,13/05/2024,Chennai,Delhi,Delhivery,1177.86,6.01,5.03,6100.6,Returned
+SHP10371,03/10/2024,Ahmedabad,Chennai,DELHIVERY,1224.63,5.99,5.3,4966.86,Delivered
+SHP10045,17/06/2024,Ahmedabad,Kolkata,dhl,758.58,,4.1,4661.42,Delivered
+SHP10433,2024-04-19,Mumbai,Nagpur,,325.19,-17.84,0.91,1477.52,Delivered
+SHP10942,2024-04-17,Kolkata,Ahmedabad,D.H.L,577.79,22.44,1.74,3691.18,Delayed
+SHP10432,28/05/2024,Jaipur,Kolkata,BlueDart,985.73,9.07,3.47,4643.88,Delivered
+SHP10613,21/05/2024,Pune,Delhi,dhl,290.88,46.24,1.78,1717.83,In Transit
+SHP10736,08-16-2024,Kolkata,Chennai,ups,834.78,43.3,4.01,5699.29,In Transit
+SHP10011,04/02/2024,Hyderabad,Nagpur,Fed Ex,721.32,8.09,2.36,3460.84,Delivered
+SHP10214,19/01/2024,Chennai,Nagpur,fedex,796.82,10.83,3.4,3798.98,Delivered
+SHP10344,17/04/2024,Ahmedabad,Bengaluru,ups,335.87,20.32,1.08,2349.94,Cancelled
+SHP10711,30/12/2024,Pune,Delhi,fedex,687.2,,1.25,3162.46,Delivered
+SHP10731,30/09/2024,Chennai,Bengaluru,fedex,387.41,21.25,1.37,2097.78,Returned
+SHP10147,15/06/2024,Kolkata,Jaipur,Blue Dart,1104.93,10.41,4.93,5883.96,Delivered
+SHP10299,2024-03-04,Ahmedabad,Pune,DHL,1000.78,4.53,3.68,,Delivered
+SHP10283,31/05/2024,Nagpur,Jaipur,fedex,495.11,28.23,2.54,2799.95,Delivered
+SHP10757,20/08/2024,Hyderabad,Bengaluru,DHL,1017.32,21.03,,5849.43,In Transit
+SHP10412,21/08/2024,Pune,Chennai,FEDEX,774.58,6.5,0.88,2853.1,Delivered
+SHP10639,23/01/2024,Bengaluru,Hyderabad,UPS,578.6,5.0,0.7,3520.02,Delivered
+SHP10807,08/03/2024,Jaipur,Bengaluru,Delhivery,788.26,,,4878.81,Delivered
+SHP10981,08-13-2024,Hyderabad,Pune,fedex,1072.14,20.45,4.55,4923.43,In Transit
+SHP10701,2024-05-10,Pune,Chennai,delhivery,1071.19,3.38,4.25,5317.61,Delivered
+SHP10747,05-27-2024,Ahmedabad,Jaipur,fedex,330.64,1.84,1.25,1223.38,Cancelled
+SHP10173,20/12/2024,Bengaluru,Hyderabad,FEDEX,721.05,44.22,,5105.23,Delivered
+SHP10567,27/11/2024,Jaipur,Nagpur,D.H.L,767.94,18.69,2.36,4637.91,Returned
+SHP10571,05-12-2024,Ahmedabad,Pune,delhivery,931.4,13.24,4.88,3620.41,Delivered
+SHP10226,03-11-2024,Mumbai,Nagpur,Blue Dart,263.93,37.27,1.02,1912.41,Delivered
+SHP10305,10-26-2024,Mumbai,Jaipur,Blue Dart,511.24,1.57,2.78,1966.21,Delayed
+SHP10031,03-14-2024,Delhi,Hyderabad,delhivery,549.66,31.77,3.38,3381.71,In Transit
+SHP10682,10-21-2024,Kolkata,Jaipur,Delhivery,925.44,12.32,4.3,5390.49,Delayed
+SHP10835,13/09/2024,Jaipur,Ahmedabad,,1042.68,15.35,3.64,6490.62,In Transit
+SHP10604,22/07/2024,Ahmedabad,Jaipur,delhivery,1128.48,12.65,3.72,5205.29,Returned
+SHP10285,20/06/2024,Ahmedabad,Delhi,DHL,540.67,,1.63,2191.14,Delivered
+SHP10484,09-17-2024,Bengaluru,Nagpur,blue dart,547.85,21.29,1.34,2594.63,Delayed
+SHP10495,11/08/2024,Nagpur,Hyderabad,blue dart,461.5,10.66,2.07,2596.08,Delivered
+SHP10928,03-14-2024,Ahmedabad,Hyderabad,ups,497.72,55.52,3.18,3160.96,In Transit
+SHP10678,23/06/2024,Nagpur,Delhi,fedex,575.52,18.4,1.8,2851.27,Delivered
+SHP10116,2024-05-03,Nagpur,Kolkata,DHL,651.14,40.13,2.06,,Delivered
+SHP10796,2024-02-27,Jaipur,Ahmedabad,FEDEX,958.28,4.89,3.47,5167.55,In Transit
+SHP10634,14/08/2024,Kolkata,Bengaluru,fedex,952.19,8.26,2.65,5590.98,Delivered
+SHP10361,2024-12-10,Delhi,Ahmedabad,ups,402.1,22.2,1.44,,Delivered
+SHP10095,02-27-2024,Delhi,Jaipur,ups,999.59,38.61,2.85,4534.79,Delivered
+SHP10261,2024-04-06,Delhi,Chennai,UPS,360.87,31.15,2.41,2528.85,Delayed
+SHP10874,2024-04-03,Ahmedabad,Kolkata,ups,725.22,,2.32,4420.82,Delivered
+SHP10512,03-30-2024,Hyderabad,Delhi,FEDEX,978.55,7.12,3.64,5146.68,Delivered
+SHP10684,2024-09-12,Delhi,Ahmedabad,UPS,858.8,11.9,3.37,5138.33,Returned
+SHP10179,18/06/2024,Pune,Mumbai,Delhivery,334.43,11.9,0.5,1952.94,Delayed
+SHP10102,24/09/2024,Bengaluru,Chennai,dhl,632.22,,2.53,2500.43,In Transit
+SHP10062,05-23-2024,Nagpur,Mumbai,DELHIVERY,144.32,19.7,0.5,1236.98,In Transit
+SHP10204,17/11/2024,Hyderabad,Jaipur,dhl,5658.817041524878,,3.27,,Delivered
+SHP10906,2024-04-06,Bengaluru,Kolkata,Delhivery,802.71,2.45,4.25,3202.4,Delivered
+SHP10697,2024-02-22,Mumbai,Nagpur,delhivery,686.37,2.34,2.37,2718.7,Delivered
+SHP10184,09-20-2024,Ahmedabad,Nagpur,BlueDart,732.14,13.26,3.59,4612.43,In Transit
+SHP10799,2024-09-26,Bengaluru,Mumbai,DELHIVERY,836.47,13.29,2.75,4048.48,Delivered
+SHP10745,2024-09-03,Chennai,Jaipur,dhl,694.25,9.94,2.21,3460.69,Delivered
+SHP10091,31/10/2024,Chennai,Kolkata,Fed Ex,527.48,13.74,1.43,3013.96,Delivered
+SHP10957,07/05/2024,Chennai,Ahmedabad,fedex,219.87,42.76,0.5,1638.82,Delivered
+SHP10719,03-05-2024,Mumbai,Chennai,FEDEX,763.92,30.66,4.09,3343.63,Cancelled
+SHP10551,02-09-2024,Ahmedabad,Delhi,Delhivery,473.22,12.56,1.89,2863.95,Delivered
+SHP10625,29/09/2024,Ahmedabad,Chennai,blue dart,850.95,0.4,4.73,4254.72,Delayed
+SHP10741,12/01/2024,Mumbai,Kolkata,delhivery,285.42,11.66,0.5,1952.03,In Transit
+SHP10411,2024-03-25,Jaipur,Nagpur,BlueDart,533.79,,2.04,3349.81,Delivered
+SHP10346,20/12/2024,Jaipur,,U.P.S.,43.27,14.72,0.5,529.53,Delivered
+SHP10493,05-05-2024,Pune,Nagpur,BlueDart,849.89,19.3,2.5,5150.94,Delivered
+SHP10827,21/05/2024,Bengaluru,Chennai,,443.9,7.2,2.26,2518.44,Delivered
+SHP10029,13/10/2024,Bengaluru,Ahmedabad,Blue Dart,729.12,13.88,2.66,3806.63,Delivered
+SHP10054,20/09/2024,Chennai,Kolkata,Delhivery,541.47,5.78,0.6,2390.86,Delivered
+SHP10721,19/10/2024,Pune,Hyderabad,ups,227.19,20.64,1.26,1648.56,Delivered
+SHP10039,2024-01-16,Bengaluru,Chennai,DHL,781.89,19.51,0.82,4733.44,Delayed
+SHP10157,01-02-2024,Chennai,Bengaluru,UPS,409.03,19.87,0.91,2721.17,Delayed
+SHP10805,21/03/2024,Bengaluru,Nagpur,Delhivery,1033.33,3.36,4.45,,Delivered
+SHP10146,2024-08-11,Jaipur,Bengaluru,delhivery,15.0,4.15,0.5,130.49,In Transit
+SHP10221,2024-06-19,Kolkata,Pune,D.H.L,91.25,5.43,0.5,476.72,Delivered
+SHP10901,25/12/2024,Mumbai,Chennai,delhivery,1137.5,15.39,4.05,6089.12,Delayed
+SHP10784,01/02/2024,Hyderabad,Nagpur,ups,820.37,1.4,3.05,3330.47,Delivered
+SHP10765,07-26-2024,Kolkata,Chennai,U.P.S.,851.07,22.72,4.93,4577.68,Delivered
+SHP10932,11/03/2024,Kolkata,Delhi,ups,451.68,24.39,3.9,2652.51,Delayed
+SHP10394,04/01/2024,Pune,Delhi,delhivery,423.31,13.92,1.43,2208.88,Delivered
+SHP10052,06-01-2024,Hyderabad,Pune,UPS,181.71,10.49,1.52,1005.23,Delivered
+SHP10632,2024-04-24,Jaipur,Nagpur,D.H.L,620.05,42.09,2.31,3967.91,Delivered
+SHP10730,12-15-2024,Chennai,Kolkata,Delhivery,661.95,10.47,2.23,2895.03,Delayed
+SHP10359,10-02-2024,Hyderabad,Chennai,blue dart,405.75,15.25,2.03,2267.96,Delivered
+SHP10594,05-21-2024,Bengaluru,Ahmedabad,fedex,338.9,18.96,1.07,2322.18,Delayed
+SHP10402,2024-11-18,Chennai,Jaipur,UPS,336.68,7.91,1.57,1576.82,Cancelled
+SHP10782,23/04/2024,Jaipur,Ahmedabad,DELHIVERY,701.19,,4.42,4218.94,Cancelled
+SHP10421,2024-12-04,Nagpur,Chennai,Fed Ex,444.43,8.35,2.83,1731.09,Returned
+SHP10448,08/11/2024,Chennai,Hyderabad,Delhivery,879.6,3.38,,4823.07,In Transit
+SHP10165,02-28-2024,Nagpur,Ahmedabad,DHL,1127.14,17.59,3.68,6296.24,Delayed
+SHP10284,2024-12-02,Ahmedabad,Delhi,UPS,912.28,5.55,5.38,4294.1,Delivered
+SHP10080,2024-02-18,Kolkata,Pune,dhl,653.43,16.07,1.53,2906.18,Delivered
+SHP10227,12-26-2024,Delhi,Hyderabad,Blue Dart,231.9,25.63,0.5,1094.84,In Transit
+SHP10447,12-04-2024,Kolkata,Delhi,blue dart,609.45,22.62,1.57,2628.91,Delayed
+SHP10353,2024-12-30,Mumbai,Jaipur,blue dart,916.8,26.15,,5509.47,In Transit
+SHP10310,2024-07-24,Pune,Hyderabad,DHL,308.5,9.27,0.92,1834.68,Delayed
+SHP10934,2024-01-25,Delhi,Kolkata,U.P.S.,686.21,45.89,2.75,4694.13,Delivered
+SHP10259,24/11/2024,Delhi,Kolkata,DELHIVERY,901.87,34.32,3.65,5780.92,Cancelled
+SHP10323,12-23-2024,Nagpur,Pune,UPS,857.03,3.61,3.07,3773.7,Delivered
+SHP10009,06-29-2024,Chennai,Kolkata,BlueDart,620.45,9.42,1.03,2584.8,Cancelled
+SHP10726,21/11/2024,Mumbai,Chennai,FedEx,1187.22,11.92,4.26,7205.74,Delivered
+SHP10538,04-13-2024,Nagpur,Mumbai,Blue Dart,355.26,5.25,1.39,2081.55,In Transit
+SHP10030,07/06/2024,Pune,Kolkata,fedex,738.8,9.85,4.68,3417.21,Delivered
+SHP10801,2024-08-25,Chennai,Hyderabad,Blue Dart,15.0,20.48,0.5,464.75,Delivered
+SHP10334,04-18-2024,Mumbai,Jaipur,ups,475.1,20.82,1.46,2169.0,Delivered
+SHP10794,09/01/2024,Delhi,Pune,BlueDart,582.05,13.45,1.58,2462.03,Delivered
+SHP10974,04-23-2024,Bengaluru,Kolkata,UPS,650.86,19.58,2.09,2692.66,Delivered
+SHP10517,29/04/2024,Chennai,Kolkata,UPS,962.71,11.98,4.74,5579.84,Delivered
+SHP10197,23/09/2024,Chennai,Mumbai,dhl,424.35,5.98,1.75,1877.5,Delayed
+SHP10802,10/12/2024,Jaipur,Ahmedabad,ups,1330.88,13.13,3.65,6253.58,Delivered
+SHP10392,2024-12-27,Delhi,Mumbai,Blue Dart,135.27,4.93,0.86,639.1,In Transit
+SHP10552,16/03/2024,Kolkata,Hyderabad,dhl,169.32,12.98,0.5,1165.54,Returned
+SHP10800,2024-09-25,Delhi,Bengaluru,DHL,1261.63,8.6,4.53,6047.99,Delivered
+SHP10641,26/08/2024,Jaipur,Hyderabad,Delhivery,943.09,3.59,3.27,3438.55,Delivered
+SHP10541,11-29-2024,Bengaluru,Ahmedabad,Blue Dart,706.42,15.51,2.75,2958.52,Delivered
+SHP10510,12/11/2024,Delhi,Mumbai,ups,634.18,,,4436.49,Delivered
+SHP10122,2024-03-30,Mumbai,Nagpur,DHL,332.52,3.81,1.23,1935.32,Delivered
+SHP10378,09/02/2024,Nagpur,Mumbai,fedex,839.71,16.46,4.06,5058.81,In Transit
+SHP10038,19/12/2024,Nagpur,Ahmedabad,FEDEX,588.45,1.5,2.46,2761.5,Delivered
+SHP10555,24/02/2024,Chennai,Pune,D.H.L,385.51,21.03,2.21,2385.54,Delivered
+SHP10531,25/01/2024,Chennai,Jaipur,fedex,440.37,23.25,1.9,2881.98,Delivered
+SHP10162,27/05/2024,Pune,Bengaluru,Fed Ex,721.58,37.17,4.02,3853.7,Delivered
+SHP10067,05-06-2024,Kolkata,Mumbai,dhl,389.29,15.25,0.5,2370.55,Delivered
+SHP10124,06-19-2024,Chennai,Delhi,BlueDart,1047.49,12.88,4.97,3988.2,Delivered
+SHP10004,2024-10-20,Jaipur,Bengaluru,delhivery,812.95,7.57,3.47,4324.0,Delivered
+SHP10691,02-02-2024,Hyderabad,Jaipur,DELHIVERY,611.37,5.41,2.72,3574.49,In Transit
+SHP10705,07-24-2024,Kolkata,Delhi,BlueDart,15.0,40.22,1.52,540.66,Delayed
+SHP10897,2024-11-23,Delhi,Hyderabad,Blue Dart,642.66,33.6,2.06,3516.89,Delivered
+SHP10427,02/10/2024,Mumbai,Kolkata,UPS,816.16,12.01,,5025.79,Delayed
+SHP10943,2024-07-06,Nagpur,Hyderabad,FEDEX,495.72,22.04,2.14,3022.28,Delivered
+SHP10761,03/05/2024,Jaipur,Delhi,fedex,697.49,25.92,2.62,3195.9,Delivered
+SHP10506,04/04/2024,Mumbai,Nagpur,Delhivery,778.62,27.84,,4343.77,Delivered
+SHP10922,02-29-2024,Chennai,Kolkata,FEDEX,930.0,6.2,4.13,4253.79,In Transit
+SHP10399,01-16-2024,Pune,Jaipur,ups,670.43,35.21,1.84,3671.08,Delivered
+SHP10638,02-28-2024,Jaipur,Chennai,BlueDart,681.04,8.35,1.47,3425.52,Delivered
+SHP10352,08/08/2024,Nagpur,Chennai,delhivery,559.04,,2.85,3325.58,In Transit
+SHP10852,2024-05-18,Pune,Hyderabad,blue dart,957.02,18.2,4.06,5739.21,Delivered
+SHP10671,07-04-2024,Pune,Hyderabad,Blue Dart,607.91,,2.82,3108.35,Delivered
+SHP10260,12/09/2024,Delhi,Chennai,Blue Dart,781.85,2.02,3.77,3754.11,In Transit
+SHP10333,15/05/2024,Ahmedabad,Nagpur,fedex,427.85,26.71,1.31,2766.23,Delivered
+SHP10153,07-15-2024,Hyderabad,Nagpur,,637.06,46.43,3.1,3433.75,Delivered
+SHP10396,2024-05-29,Delhi,Nagpur,DHL,337.82,3.08,0.88,1391.56,Delivered
+SHP10501,09/12/2024,Nagpur,Jaipur,UPS,601.63,43.91,2.38,3213.9,Delivered
+SHP10373,05-26-2024,Bengaluru,Nagpur,ups,833.25,,3.89,4408.97,Returned
+SHP10312,2024-11-07,Delhi,Ahmedabad,ups,392.85,13.24,,1756.08,Delivered
+SHP10042,19/07/2024,Pune,Ahmedabad,DELHIVERY,564.53,15.48,2.19,2424.17,In Transit
+SHP10770,2024-02-04,Bengaluru,Hyderabad,delhivery,647.87,8.48,1.43,2857.73,Delivered
+SHP10522,06/03/2024,Chennai,Bengaluru,Blue Dart,663.99,32.78,2.01,4390.18,Returned
+SHP10661,14/05/2024,Bengaluru,Chennai,dhl,774.33,15.72,4.17,3191.68,Delayed
+SHP10859,2024-06-30,Pune,Mumbai,dhl,449.25,1.99,2.26,1727.35,Delivered
+SHP10408,07-07-2024,Hyderabad,Jaipur,D.H.L,840.41,11.66,2.9,4231.89,Delayed
+SHP10830,09-06-2024,Chennai,Kolkata,blue dart,760.43,2.35,4.32,3069.29,Delayed
+SHP10758,07-08-2024,Kolkata,Jaipur,ups,532.32,17.14,1.92,2635.47,Cancelled
+SHP10605,2024-12-26,Mumbai,Hyderabad,DHL,590.04,12.82,1.97,,Delivered
+SHP10024,2024-04-08,Bengaluru,Kolkata,delhivery,331.28,8.58,1.23,2022.11,Delivered
+SHP10954,05-28-2024,Bengaluru,Delhi,blue dart,356.31,21.88,1.03,2036.8,Delivered
+SHP10599,03/12/2024,Nagpur,Mumbai,U.P.S.,822.31,11.81,3.35,4373.22,Delivered
+SHP10445,14/10/2024,Mumbai,Bengaluru,U.P.S.,1034.28,5.03,4.39,3753.28,Delivered
+SHP10272,07-26-2024,Chennai,Ahmedabad,Delhivery,204.34,14.85,2.1,1419.96,Delivered
+SHP10891,07/06/2024,Nagpur,Jaipur,blue dart,1149.23,6.99,5.08,5067.84,Cancelled
+SHP10519,01-15-2024,Jaipur,Chennai,DHL,551.58,12.5,2.69,2728.06,Delivered
+SHP10377,16/11/2024,Kolkata,Delhi,BlueDart,783.48,18.61,3.83,4650.16,Delivered
+SHP10498,2024-03-20,Mumbai,Delhi,U.P.S.,757.07,4.96,1.3,4430.14,Delivered
+SHP10892,02-03-2024,Ahmedabad,Pune,Delhivery,515.28,12.44,0.57,2532.57,Delivered
+SHP10833,2024-03-09,Delhi,Mumbai,DELHIVERY,785.67,12.35,2.98,3847.18,Cancelled
+SHP10667,05-12-2024,Mumbai,Kolkata,DHL,65.29,9.23,0.5,530.04,Delivered
+SHP10097,2024-10-28,Ahmedabad,Delhi,delhivery,793.26,4.57,2.69,4108.51,Delayed
+SHP10128,12-20-2024,Kolkata,Mumbai,Delhivery,505.33,26.55,1.57,3091.12,Delayed
+SHP10544,05-04-2024,Bengaluru,Nagpur,DHL,1184.57,22.68,4.11,5912.05,In Transit
+SHP10379,13/10/2024,Kolkata,Mumbai,fedex,1113.33,7.52,3.7,5763.38,In Transit
+SHP10203,2024-03-16,Mumbai,Jaipur,DHL,621.74,,1.22,3779.13,Delivered
+SHP10343,10-16-2024,Nagpur,Kolkata,blue dart,449.33,12.59,1.3,2451.56,Delivered
+SHP10744,2024-03-14,Pune,Mumbai,ups,1036.03,10.04,5.51,5164.94,Delivered
+SHP10821,07/10/2024,Ahmedabad,Jaipur,Delhivery,870.35,8.68,3.01,5245.54,Delivered
+SHP10518,2024-11-25,Hyderabad,Pune,BlueDart,653.17,23.35,3.42,2848.82,Delivered
+SHP10791,07-22-2024,Jaipur,Nagpur,dhl,763.14,18.82,3.77,4627.93,Returned
+SHP10488,2024-07-11,Kolkata,Hyderabad,dhl,670.15,-9.73,2.86,3157.96,In Transit
+SHP10237,11/08/2024,Bengaluru,Hyderabad,Fed Ex,33.57,11.48,0.5,269.53,Delivered
+SHP10549,2024-11-13,Hyderabad,Kolkata,Delhivery,833.7,25.88,4.28,3800.91,Delayed
+SHP10400,01-31-2024,Ahmedabad,Bengaluru,BlueDart,633.36,12.92,2.47,23707.072321048494,Delivered
+SHP10570,22/08/2024,Hyderabad,Chennai,U.P.S.,1168.2729517506327,8.93,0.5,790.29,Delivered
+SHP10232,2024-11-20,Pune,Mumbai,,1010.81,9.39,6.62,,Delivered
+SHP10442,2024-01-28,Pune,Delhi,DELHIVERY,751.7,9.87,3.98,4472.74,In Transit
+SHP10098,2024-06-07,Nagpur,Jaipur,D.H.L,349.3,12.23,1.14,,Delivered
+SHP10889,2024-06-29,Mumbai,Chennai,Fed Ex,777.53,38.46,2.76,4946.17,Delivered
+SHP10993,12-13-2024,Ahmedabad,Bengaluru,delhivery,253.6,,4.08,1651.8,Delivered
+SHP10511,2024-12-10,Pune,Kolkata,UPS,107.53,1.22,0.5,592.62,Delayed
+SHP10622,07/12/2024,Nagpur,Chennai,DELHIVERY,609.06,34.57,4.4,3090.69,Delayed
+SHP10217,2024-05-18,Bengaluru,Pune,Fed Ex,434.16,7.37,1.37,2177.83,In Transit
+SHP10360,2024-09-17,Kolkata,Pune,D.H.L,820.53,7.04,1.58,4649.09,Delivered
+SHP10558,07/10/2024,Delhi,Hyderabad,Fed Ex,495.96,4.26,2.39,2283.92,Delivered
+SHP10750,27/05/2024,Mumbai,Chennai,ups,568.07,1.79,2.51,2450.01,Delivered
+SHP10973,30/03/2024,Bengaluru,Chennai,BlueDart,791.52,12.35,3.36,3120.76,In Transit
+SHP10225,27/06/2024,Jaipur,Kolkata,FedEx,675.8,6.7,2.85,2884.12,In Transit
+SHP10018,2024-12-11,Delhi,Kolkata,dhl,1041.8,15.73,4.6,5810.54,Cancelled
+SHP10168,01-26-2024,Hyderabad,Delhi,DELHIVERY,766.54,2.17,5.45,3399.94,Delivered
+SHP10292,17/10/2024,Hyderabad,Bengaluru,blue dart,918.14,22.71,3.98,5273.77,Cancelled
+SHP10929,20/04/2024,Bengaluru,Pune,FEDEX,1121.06,,3.86,5511.48,In Transit
+SHP10397,2024-12-17,Nagpur,Pune,DHL,716.41,17.85,1.76,3734.94,Delivered
+SHP10540,2024-04-17,Pune,Chennai,FedEx,766.29,17.89,4.17,3101.51,In Transit
+SHP10328,2024-10-15,Delhi,Jaipur,DHL,504.58,19.8,2.93,2924.56,Delivered
+SHP10787,2024-03-17,Nagpur,Hyderabad,BlueDart,487.86,10.99,0.84,1930.94,In Transit
+SHP10636,09-12-2024,Bengaluru,Mumbai,FEDEX,811.05,77.88,3.99,6021.39,Delivered
+SHP10093,2024-04-18,Pune,Bengaluru,Fed Ex,816.67,7.88,4.7,4050.42,Delivered
+SHP10213,28/08/2024,Delhi,Mumbai,D.H.L,566.1,8.71,1.47,,Delivered
+SHP10337,2024-09-21,Ahmedabad,Mumbai,Fed Ex,923.03,16.49,3.02,4648.18,Delivered
+SHP10425,04-19-2024,Delhi,Mumbai,D.H.L,822.89,5.42,3.57,3897.41,Delivered
+SHP10816,2024-12-23,Kolkata,Hyderabad,blue dart,363.87,31.35,0.82,2646.33,Cancelled
+SHP10618,26/12/2024,Pune,Jaipur,FedEx,949.54,12.88,3.24,4476.11,Cancelled
+SHP10115,04-29-2024,Mumbai,Nagpur,D.H.L,20.76,6.07,1.46,220.95,Delivered
+SHP10158,2024-12-16,Pune,Delhi,DELHIVERY,881.46,23.56,3.67,5101.92,Delivered
+SHP10216,2024-12-09,Chennai,Jaipur,DHL,410.36,10.02,1.96,2175.37,Cancelled
+SHP10112,11-26-2024,Delhi,Jaipur,UPS,1022.59,28.74,4.61,5109.27,Delayed
+SHP10036,26/09/2024,Hyderabad,Jaipur,DHL,720.32,16.32,2.73,3179.73,Delivered
+SHP10105,03-05-2024,Mumbai,Bengaluru,DHL,1006.29,15.54,3.5,6021.17,Delivered
+SHP10362,06-23-2024,Jaipur,Nagpur,DHL,905.26,22.32,3.55,3592.47,Cancelled
+SHP10365,2024-08-15,Hyderabad,Chennai,U.P.S.,1068.83,,5.73,5035.67,Delivered
+SHP10441,03-17-2024,Bengaluru,Kolkata,UPS,305.63,14.27,0.5,1622.84,Delivered
+SHP10565,07-06-2024,Chennai,Ahmedabad,delhivery,836.36,28.65,2.87,4692.97,Delivered
+SHP10351,24/08/2024,Kolkata,Ahmedabad,dhl,226.21,3.84,2.97,943.95,Delayed
+SHP10988,06-14-2024,Nagpur,Hyderabad,UPS,1004.82,9.01,4.26,,Delivered
+SHP10249,2024-05-08,Pune,Bengaluru,U.P.S.,97.28,1.72,0.5,426.96,Delivered
+SHP10862,03/08/2024,Nagpur,Hyderabad,BlueDart,678.84,17.96,2.71,3232.14,Delivered
+SHP10808,2024-03-22,Delhi,Mumbai,BlueDart,714.14,13.41,3.0,3240.19,Delivered
+SHP10406,27/06/2024,Chennai,Nagpur,U.P.S.,790.91,6.42,3.42,4310.21,Cancelled
+SHP10866,07-21-2024,Delhi,Pune,DELHIVERY,611.14,8.86,1.99,2362.04,Returned
+SHP10164,08-12-2024,Jaipur,Nagpur,FedEx,116.9,16.97,0.51,861.34,Cancelled
+SHP10890,2024-01-23,Pune,Mumbai,DELHIVERY,1064.19,30.16,3.91,5529.73,Delayed
+SHP10826,2024-04-23,Ahmedabad,Delhi,ups,477.66,37.31,4.1,2611.35,Delivered
+SHP10841,2024-01-10,Bengaluru,Nagpur,dhl,497.84,13.42,2.92,3065.3,Delivered
+SHP10083,12-01-2024,Chennai,Bengaluru,FEDEX,461.58,16.82,2.12,2938.28,Delivered
+SHP10709,14/01/2024,Bengaluru,Delhi,DHL,211.78,6.09,0.5,1200.0,Delivered
+SHP10295,2024-03-11,Chennai,Ahmedabad,blue dart,813.16,8.93,,3514.24,Delivered
+SHP10070,2024-02-20,Pune,Jaipur,UPS,519.38,8.97,,3217.01,Delivered
+SHP10643,2024-01-04,Nagpur,Pune,DELHIVERY,659.07,10.97,1.83,3481.17,Delayed
+SHP10610,07-11-2024,Pune,Kolkata,ups,605.99,20.73,2.51,3109.1,Returned
+SHP10675,2024-04-05,Pune,Ahmedabad,dhl,106.87,45.71,0.5,1366.03,Delivered
+SHP10938,2024-08-10,Delhi,Jaipur,Fed Ex,779.8,10.32,2.15,3017.43,Delivered
+SHP10878,2024-03-20,Delhi,Kolkata,DELHIVERY,844.22,10.24,3.53,4819.42,In Transit
+SHP10659,08-22-2024,Hyderabad,Pune,DELHIVERY,785.37,,5.94,4299.16,Delivered
+SHP10735,14/05/2024,Mumbai,Bengaluru,DELHIVERY,337.63,14.1,0.93,1501.81,In Transit
+SHP10127,26/01/2024,Hyderabad,Bengaluru,,182.19,26.03,1.03,1275.63,Delivered
+SHP10853,2024-03-20,Jaipur,Kolkata,BlueDart,1167.02,29.99,3.97,4554.76,Returned
+SHP10001,11/04/2024,Kolkata,Bengaluru,dhl,883.34,14.03,2.67,4470.09,Delayed
+SHP10748,25/10/2024,Delhi,,FedEx,858.9,15.54,2.2,5106.51,Delivered
+SHP10539,12-15-2024,Chennai,Nagpur,BlueDart,858.41,2.96,3.46,4300.12,Delivered
+SHP10601,2024-08-29,Delhi,Ahmedabad,Delhivery,576.76,13.13,1.19,2433.14,Delivered
+SHP10308,10-05-2024,Chennai,Delhi,U.P.S.,796.05,14.82,3.11,3973.13,Delivered
+SHP10585,10-17-2024,Hyderabad,Delhi,DHL,983.12,60.49,4.1,6231.16,Delayed
+SHP10410,29/01/2024,Pune,Bengaluru,dhl,480.14,11.59,,1953.88,Delivered
+SHP10171,03-22-2024,Chennai,Bengaluru,D.H.L,488.51,16.06,1.42,2848.04,Delayed
+SHP10417,04-03-2024,Hyderabad,Pune,dhl,467.37,28.69,1.14,2746.65,Returned
+SHP10875,12-19-2024,Hyderabad,Kolkata,Fed Ex,513.08,10.74,2.08,2203.09,Delivered
+SHP10698,25/05/2024,Bengaluru,Chennai,ups,948.22,5.16,,4964.36,Delivered
+SHP10603,21/09/2024,Delhi,Jaipur,UPS,107.55,18.24,0.5,843.22,Delayed
+SHP10460,10-15-2024,Pune,Jaipur,U.P.S.,967.35,16.35,4.43,3885.03,Delivered
+SHP10880,29/09/2024,Bengaluru,Jaipur,delhivery,999.97,10.2,2.61,4599.79,In Transit
+SHP10637,2024-01-20,Pune,Ahmedabad,,836.73,4.61,4.58,4457.48,Delivered
+SHP10423,08-02-2024,Kolkata,Jaipur,FedEx,385.19,7.02,1.95,1898.24,Delivered
+SHP10315,02-23-2024,Pune,Mumbai,delhivery,663.4,,1.84,2673.11,In Transit
+SHP10376,2024-01-29,Ahmedabad,Delhi,D.H.L,829.08,11.92,3.98,3590.64,Delivered
+SHP10524,11/07/2024,Jaipur,Pune,UPS,520.41,5.69,4.2,2651.56,In Transit
+SHP10881,27/01/2024,Hyderabad,Bengaluru,Fed Ex,585.19,20.17,1.0,3076.14,Delivered
+SHP10438,06/02/2024,Bengaluru,Pune,FedEx,680.04,3.08,2.28,2976.56,Delayed
+SHP10911,12-23-2024,Delhi,Mumbai,Fed Ex,306.22,18.98,0.5,1712.69,Delivered
+SHP10150,2024-11-01,Kolkata,Mumbai,UPS,212.86,9.69,1.41,1422.28,In Transit
+SHP10886,2024-11-04,Pune,Bengaluru,blue dart,506.03,13.91,1.33,3087.15,Delayed
+SHP10556,05-04-2024,Mumbai,Ahmedabad,UPS,1222.64,7.3,4.64,6231.89,Delivered
+SHP10832,30/07/2024,Nagpur,Bengaluru,fedex,273.85,7.91,2.0,1606.18,Returned
+SHP10945,04/01/2024,Pune,Hyderabad,delhivery,603.63,6.87,1.8,2635.88,Delivered
+SHP10409,03-03-2024,Pune,Hyderabad,FEDEX,644.72,7.38,2.43,3235.87,In Transit
+SHP10143,2024-02-10,Bengaluru,Jaipur,D.H.L,845.52,13.24,5.61,5106.86,Delivered
+SHP10526,2024-05-06,Delhi,Chennai,Blue Dart,803.42,17.01,4.15,4476.29,Delivered
+SHP10876,2024-04-13,Chennai,Pune,delhivery,840.66,21.73,3.55,4701.24,Delayed
+SHP10334,04-18-2024,Mumbai,Jaipur,ups,475.1,20.82,1.46,2169.0,Delivered
+SHP10840,07-06-2024,Jaipur,,D.H.L,495.86,,2.55,2567.59,Cancelled
+SHP10208,2024-07-11,Pune,Hyderabad,ups,666.14,20.31,2.06,4025.34,Delivered
+SHP10440,24/11/2024,Kolkata,Mumbai,ups,986.54,12.51,4.3,5838.01,In Transit
+SHP10131,10-16-2024,Jaipur,Bengaluru,D.H.L,897.26,15.16,1.46,4715.07,Returned
+SHP10380,06/07/2024,Kolkata,Chennai,Delhivery,920.0,7.15,3.05,4015.49,In Transit
+SHP10174,2024-05-18,Delhi,Nagpur,Delhivery,346.19,14.68,1.99,1561.63,Delivered
+SHP10533,13/02/2024,Mumbai,Ahmedabad,U.P.S.,806.96,25.01,2.24,4223.57,Delivered
+SHP10270,2024-07-20,Nagpur,Hyderabad,D.H.L,523.23,,2.07,,Delivered
+SHP10407,09/07/2024,Bengaluru,Nagpur,U.P.S.,940.27,10.29,4.12,4912.99,Delivered
+SHP10737,2024-01-04,Ahmedabad,Delhi,,574.02,,1.85,3447.31,Delivered
+SHP10123,16/06/2024,Kolkata,Bengaluru,DELHIVERY,739.25,24.75,2.24,3059.25,Delivered
+SHP10138,2024-07-06,Hyderabad,Chennai,BlueDart,497.87,9.53,2.91,3088.0,Delivered
+SHP10051,2024-06-03,Hyderabad,Ahmedabad,Blue Dart,1059.16,24.88,1.27,6865.19,Delayed
+SHP10624,05-07-2024,Mumbai,Chennai,Fed Ex,151.74,-10.0,0.89,,Delivered
+SHP10275,2024-04-24,Pune,Bengaluru,DHL,607.58,,3.47,2558.25,Delivered
+SHP10980,2024-09-30,Pune,Chennai,,962.71,20.82,4.25,3906.51,Delivered
+SHP10342,01-29-2024,Mumbai,Hyderabad,Fed Ex,474.83,13.25,1.62,3086.67,Delivered
+SHP10256,2024-10-25,Pune,Chennai,fedex,974.71,8.48,4.14,5755.67,Delivered
+SHP10182,26/05/2024,Kolkata,Mumbai,Blue Dart,732.15,10.46,2.6,3097.24,Delivered
+SHP10617,04-03-2024,Ahmedabad,Pune,FedEx,1193.61,7.43,4.44,6632.99,Delivered
+SHP10300,02-24-2024,Chennai,Delhi,BlueDart,705.31,45.34,3.13,3208.27,Delivered
+SHP10690,2024-01-27,Kolkata,Nagpur,FEDEX,754.87,9.11,3.27,2750.79,Delivered
+SHP10927,30/09/2024,Kolkata,Jaipur,delhivery,562.08,38.9,1.87,3587.98,Delivered
+SHP10240,01-22-2024,Mumbai,Nagpur,DELHIVERY,615.57,37.48,2.97,3949.06,In Transit
+SHP10230,30/10/2024,Jaipur,Mumbai,U.P.S.,839.38,25.09,2.08,3820.33,Delivered
+SHP10930,10/10/2024,Hyderabad,Chennai,BlueDart,652.99,1.86,4.25,2733.72,Delayed
+SHP10326,15/12/2024,Mumbai,Delhi,BlueDart,955.09,18.75,6.05,4964.95,In Transit
+SHP10458,2024-12-16,Kolkata,Mumbai,UPS,333.13,16.9,2.37,1675.16,In Transit
+SHP10681,11/11/2024,Chennai,Pune,Blue Dart,1104.81,28.6,4.88,4892.44,Delivered
+SHP10662,2024-06-08,Mumbai,Bengaluru,ups,1031.32,10.42,2.68,4101.02,Delivered
+SHP10893,14/09/2024,Bengaluru,Kolkata,delhivery,309.26,15.56,1.92,1356.24,Delivered
+SHP10465,27/01/2024,Chennai,Jaipur,,1100.48,2.33,5.25,4127.83,Delivered
+SHP10163,06/07/2024,Nagpur,Bengaluru,Blue Dart,708.58,11.21,2.58,3066.06,Cancelled
+SHP10167,02/04/2024,Bengaluru,Kolkata,DELHIVERY,614.25,29.43,1.95,3148.12,In Transit
+SHP10145,12/01/2024,Delhi,Chennai,blue dart,926.35,21.3,2.78,3862.76,Delivered
+SHP10206,16/06/2024,Chennai,Bengaluru,D.H.L,871.05,9.1,3.78,3960.89,In Transit
+SHP10500,2024-06-07,Kolkata,Ahmedabad,delhivery,534.25,7.55,2.84,2188.88,Delivered
+SHP10188,24/03/2024,Nagpur,Pune,delhivery,560.2,21.55,2.07,3415.15,Delivered
+SHP10324,31/05/2024,Bengaluru,Jaipur,FEDEX,615.26,27.53,3.49,3850.2,Delivered
+SHP10657,16/04/2024,Mumbai,Delhi,fedex,486.7,10.94,1.61,3126.3,Delivered
+SHP10872,2024-07-19,Hyderabad,Pune,D.H.L,667.15,13.52,,4068.26,Delivered
+SHP10843,2024-02-22,Kolkata,Pune,FEDEX,721.41,6.82,5.13,2891.2,Delivered
+SHP10863,2024-08-31,Hyderabad,Chennai,BlueDart,591.57,19.94,2.66,3218.29,In Transit
+SHP10860,05-21-2024,Pune,Bengaluru,DHL,1096.38,23.5,3.63,5285.53,Delivered
+SHP10910,2024-06-06,Mumbai,Delhi,UPS,1077.74,13.41,2.71,6530.19,Delivered
+SHP10575,01/05/2024,Bengaluru,Hyderabad,D.H.L,558.82,10.22,2.62,3213.12,Delivered
+SHP10079,07-20-2024,Delhi,Pune,FedEx,653.62,15.54,2.67,4064.58,Delivered
+SHP10822,08/10/2024,Jaipur,Mumbai,D.H.L,926.74,8.55,2.18,5022.34,Delayed
+SHP10687,16/04/2024,Hyderabad,Jaipur,fedex,996.47,13.01,3.62,5059.14,Cancelled
+SHP10918,13/07/2024,Pune,Ahmedabad,delhivery,477.09,9.37,1.42,2614.01,Delivered
+SHP10857,08-13-2024,Chennai,Delhi,U.P.S.,654.73,20.01,2.92,3667.87,Delivered
+SHP10229,2024-11-03,Ahmedabad,Mumbai,fedex,691.46,11.42,3.37,3940.14,Cancelled
+SHP10723,17/07/2024,Ahmedabad,Hyderabad,UPS,776.3,3.56,4.01,3564.73,In Transit
+SHP10789,10-24-2024,Chennai,Jaipur,DELHIVERY,185.05,11.74,,1224.24,Delivered
+SHP10100,14/06/2024,Kolkata,Bengaluru,DHL,718.84,22.46,,4597.1,Returned
+SHP10290,12-03-2024,Delhi,Pune,U.P.S.,839.86,6.77,2.1,3500.34,Delayed
+SHP10444,2024-09-29,Bengaluru,Ahmedabad,Blue Dart,743.76,18.86,2.59,4008.46,Returned
+SHP10961,20/08/2024,Mumbai,Bengaluru,Blue Dart,646.91,25.48,2.55,4192.85,Delivered
+SHP10053,16/01/2024,Jaipur,Ahmedabad,Blue Dart,358.96,6.11,2.84,1677.03,In Transit
+SHP10739,2024-11-04,Bengaluru,Chennai,FEDEX,576.48,13.85,,2743.41,Delivered
+SHP10391,10-01-2024,Ahmedabad,Delhi,DELHIVERY,677.46,1.84,2.3,3136.45,Cancelled
+SHP10977,2024-02-04,Hyderabad,Chennai,DELHIVERY,689.52,10.69,,4004.75,Cancelled
+SHP10930,10/10/2024,Hyderabad,Chennai,BlueDart,652.99,1.86,4.25,2733.72,Delayed
+SHP10666,13/05/2024,Jaipur,Kolkata,fedex,438.44,30.9,,1896.75,Delivered
+SHP10251,25/04/2024,Pune,Kolkata,delhivery,878.64,10.64,3.73,4012.43,Delivered
+SHP10499,2024-10-08,Delhi,Bengaluru,Delhivery,706.14,28.61,4.32,3336.73,Delivered
+SHP10475,28/05/2024,Kolkata,Bengaluru,D.H.L,463.58,7.69,0.5,2241.59,Delivered
+SHP10670,04/02/2024,Mumbai,Kolkata,,15.0,4.99,1.74,,Delivered
+SHP10271,10/11/2024,Kolkata,Chennai,FEDEX,578.11,17.48,0.54,3464.44,In Transit
+SHP10044,02/04/2024,Mumbai,Delhi,UPS,610.67,,1.91,3666.54,Delayed
+SHP10113,2024-04-28,Jaipur,Bengaluru,fedex,902.07,35.35,3.37,4301.39,Delivered
+SHP10024,2024-04-08,Bengaluru,Kolkata,delhivery,331.28,8.58,1.23,2022.11,Delivered
+SHP10211,06-23-2024,Nagpur,Hyderabad,BlueDart,956.72,23.08,3.2,5695.13,Delayed
+SHP10620,2024-08-29,Delhi,Ahmedabad,FedEx,505.05,9.31,2.96,1898.34,In Transit
+SHP10169,04-01-2024,Nagpur,Mumbai,D.H.L,717.19,13.35,2.78,4577.76,Delivered
+SHP10591,2024-10-31,Pune,Ahmedabad,D.H.L,710.7,6.59,3.77,3020.67,Delivered
+SHP10984,11-13-2024,Hyderabad,Chennai,DHL,676.1,4.29,1.21,3469.42,Delivered
+SHP10596,03/06/2024,Kolkata,Jaipur,Fed Ex,634.71,12.72,2.91,2710.37,Delivered
+SHP10520,11-15-2024,Chennai,Hyderabad,delhivery,653.92,3.61,3.03,3420.43,Delivered
+SHP10032,2024-08-20,Kolkata,Chennai,FedEx,669.96,7.35,3.46,3874.56,Delivered
+SHP10611,01-08-2024,Kolkata,Bengaluru,delhivery,1081.98,17.78,4.03,5804.44,In Transit
+SHP10109,11-16-2024,Nagpur,Delhi,D.H.L,590.93,4.82,1.45,2374.44,Delivered
+SHP10136,2024-08-29,Kolkata,Pune,fedex,1463.22,11.24,6.29,7356.92,Returned
+SHP10330,25/11/2024,Mumbai,Jaipur,dhl,538.89,17.19,1.28,2992.49,Delivered
+SHP10222,09/09/2024,Ahmedabad,Mumbai,FedEx,350.26,13.72,1.22,1991.92,Delivered
+SHP10028,03-28-2024,Jaipur,Bengaluru,FedEx,421.08,4.83,2.16,1687.51,Cancelled
+SHP10287,25/06/2024,Hyderabad,Mumbai,dhl,944.2,26.08,3.67,5822.07,Returned
+SHP10722,2024-08-01,Mumbai,Delhi,ups,488.55,13.53,1.53,2462.23,Delivered
+SHP10055,28/09/2024,Mumbai,Delhi,dhl,144.06,,0.5,849.54,Delivered
+SHP10987,01-13-2024,Chennai,Bengaluru,delhivery,15.0,11.42,0.5,236.85,Delivered
+SHP10895,03-06-2024,Nagpur,Ahmedabad,FedEx,980.83,,5.39,5814.93,Delivered
+SHP10916,2024-01-07,Nagpur,Kolkata,UPS,785.61,9.1,3.02,4735.31,Delivered
+SHP10048,17/12/2024,Kolkata,Hyderabad,U.P.S.,564.69,15.34,3.32,2882.92,Delivered
+SHP10919,12/10/2024,Hyderabad,Mumbai,U.P.S.,531.74,17.21,0.5,2505.92,Delivered
+SHP10991,2024-12-17,Bengaluru,Hyderabad,D.H.L,247.68,17.74,1.34,1568.75,Delivered
+SHP10642,2024-01-25,Bengaluru,Ahmedabad,BlueDart,721.88,34.41,1.1,3848.4,Cancelled
+SHP10545,2024-05-10,Kolkata,Bengaluru,FEDEX,555.01,10.91,1.55,2873.57,Delivered
+SHP10477,10-13-2024,Bengaluru,Hyderabad,delhivery,730.51,22.31,2.57,3245.26,Delayed
+SHP10547,2024-06-14,Ahmedabad,Jaipur,D.H.L,781.23,29.53,2.81,4078.87,In Transit
+SHP10063,09-12-2024,Bengaluru,Mumbai,DHL,465.81,34.64,2.13,2780.8,Delivered
+SHP10413,09-04-2024,Ahmedabad,Jaipur,blue dart,402.61,,1.1,2036.3,In Transit
+SHP10384,16/11/2024,Kolkata,Jaipur,FedEx,551.18,13.78,1.73,3244.6,In Transit
+SHP10904,03-11-2024,Kolkata,Mumbai,fedex,1134.13,27.45,5.89,5368.01,Delivered
+SHP10322,2024-10-22,Pune,Ahmedabad,DHL,883.04,2.16,4.16,3220.69,Delivered
+SHP10451,11-15-2024,Bengaluru,Nagpur,UPS,419.41,10.94,2.27,2655.36,Delivered
+SHP10909,22/04/2024,Hyderabad,Chennai,UPS,712.14,17.49,0.61,3209.2,Delivered
+SHP10234,06/04/2024,Jaipur,Mumbai,DELHIVERY,1060.64,13.92,3.95,5037.85,Delivered
+SHP10656,25/09/2024,Chennai,Nagpur,fedex,1428.06,34.76,5.88,8374.55,Delivered
+SHP10557,2024-07-06,Pune,Hyderabad,Blue Dart,469.79,20.4,1.39,1966.47,In Transit
+SHP10462,2024-05-29,Pune,Ahmedabad,Delhivery,272.9,21.15,0.86,1662.23,Delivered
+SHP10424,25/11/2024,Jaipur,Mumbai,Fed Ex,224.9,,1.3,,Returned
+SHP10894,07-07-2024,Mumbai,Bengaluru,D.H.L,154.94,14.76,1.15,,Cancelled
+SHP10303,26/04/2024,Ahmedabad,Chennai,DHL,1076.69,15.63,5.69,5171.47,Delayed
+SHP10899,04-02-2024,Mumbai,Bengaluru,FEDEX,797.98,41.78,4.95,4163.59,Delivered
+SHP10689,01-16-2024,Hyderabad,Nagpur,blue dart,506.84,27.39,2.7,3333.58,Returned
+SHP10219,29/04/2024,Hyderabad,Chennai,Delhivery,1040.35,21.0,6.97,6567.61,Delivered
+SHP10884,03-05-2024,Ahmedabad,Hyderabad,ups,389.53,23.28,2.11,2058.49,Delivered
+SHP10296,12/11/2024,Hyderabad,Nagpur,ups,923.65,7.18,3.05,5235.72,Delivered
+SHP10021,04/07/2024,Ahmedabad,Hyderabad,DHL,924.77,3.79,4.19,4210.88,Delivered
+SHP10760,28/03/2024,Mumbai,Delhi,UPS,467.03,15.86,1.07,2361.72,Delivered
+SHP10420,08-08-2024,Pune,Ahmedabad,D.H.L,1076.01,1.93,,6084.48,Delivered
+SHP10325,19/02/2024,Delhi,Bengaluru,fedex,778.69,10.1,,3294.41,In Transit
+SHP10199,21/04/2024,Delhi,Mumbai,BlueDart,721.52,12.44,2.65,3160.08,Delivered
+SHP10450,06-21-2024,Delhi,Chennai,FEDEX,749.94,1.16,3.1,2780.39,Delivered
+SHP10137,2024-12-07,Nagpur,Hyderabad,U.P.S.,924.78,12.24,2.41,3641.75,Delayed
+SHP10536,12-02-2024,Nagpur,Kolkata,fedex,794.09,,3.28,3882.66,Delivered
+SHP10696,26/12/2024,Mumbai,Jaipur,dhl,976.13,12.28,3.77,5970.73,Delivered
+SHP10717,2024-02-26,Bengaluru,Kolkata,blue dart,750.96,30.45,3.88,3969.48,Delivered
+SHP10646,18/09/2024,Kolkata,Chennai,FEDEX,837.36,49.41,2.69,5475.66,Cancelled
+SHP10811,2024-01-29,Hyderabad,Bengaluru,BlueDart,141.03,14.92,1.72,1014.21,Delivered
+SHP10628,19/02/2024,Jaipur,Pune,Blue Dart,513.28,11.95,1.3,2652.42,Delivered
+SHP10212,10/04/2024,Delhi,Chennai,Fed Ex,678.38,23.19,0.91,4560.33,Delivered
+SHP10976,26/02/2024,Nagpur,Chennai,D.H.L,1135.77,22.5,2.21,6410.44,Cancelled
+SHP10949,08-24-2024,Hyderabad,Delhi,D.H.L,865.59,16.25,3.4,4573.91,Delivered
+SHP10936,11-20-2024,Jaipur,Kolkata,FedEx,852.0,5.88,4.22,3903.94,Delivered
+SHP10505,05-04-2024,Hyderabad,Ahmedabad,dhl,218.37,18.15,0.5,1206.25,In Transit
+SHP10828,01/08/2024,Pune,Chennai,,719.67,2.65,2.75,4319.71,Delivered
+SHP10231,2024-04-28,Delhi,Chennai,FEDEX,981.48,16.4,4.62,4645.73,Delivered
+SHP10405,07-06-2024,Chennai,Mumbai,FedEx,576.28,7.69,3.2,3017.12,In Transit
+SHP10729,03-25-2024,Mumbai,Delhi,dhl,899.89,24.13,3.67,5539.56,Delivered
+SHP10568,2024-01-02,Jaipur,Pune,FEDEX,763.54,12.45,3.16,4635.93,Delivered
+SHP10317,2024-03-26,Kolkata,Delhi,DELHIVERY,816.98,12.9,3.64,4964.93,Delivered
+SHP10183,05-11-2024,Delhi,Bengaluru,FedEx,558.67,9.53,2.71,2857.46,Delayed
+SHP10869,2024-09-26,Kolkata,Hyderabad,dhl,861.51,0.99,3.52,3908.42,Delivered
+SHP10867,07-27-2024,Chennai,Hyderabad,Fed Ex,359.94,7.22,0.5,1610.12,Delivered
+SHP10693,07-04-2024,Kolkata,Mumbai,dhl,1182.25,6.72,,4340.54,Returned
+SHP10609,05/11/2024,Kolkata,Chennai,FEDEX,7128.362658536763,13.82,4.54,4082.63,Cancelled
+SHP10626,08-01-2024,Nagpur,Chennai,DELHIVERY,419.66,13.69,1.72,2123.33,Delivered
+SHP10485,2024-06-15,Hyderabad,Chennai,FEDEX,394.94,16.84,0.5,2449.68,In Transit
+SHP10278,2024-06-11,Nagpur,Bengaluru,Delhivery,955.85,29.26,3.66,6029.23,Delivered
+SHP10630,02-20-2024,Bengaluru,Jaipur,UPS,948.17,15.61,3.78,4273.71,In Transit
+SHP10020,2024-06-01,Chennai,Delhi,FEDEX,751.27,33.79,0.95,4270.27,Delivered
+SHP10170,2024-06-22,Nagpur,Chennai,Delhivery,946.56,17.46,2.29,5319.89,Delivered
+SHP10401,06-03-2024,Chennai,Jaipur,blue dart,944.97,7.84,5.12,4190.09,Delivered
+SHP10939,2024-09-09,Hyderabad,Jaipur,dhl,116.7,33.88,0.5,1234.22,Delivered
+SHP10566,08/10/2024,Nagpur,Jaipur,UPS,333.55,8.41,2.12,2093.56,Delayed
+SHP10176,10-18-2024,Jaipur,Pune,FedEx,495.05,25.19,1.16,,Delivered
+SHP10327,2024-04-27,Ahmedabad,Chennai,DHL,726.52,8.11,3.52,2739.4,Delivered
+SHP10706,02-22-2024,Delhi,Chennai,ups,712.76,34.13,4.3,4912.76,Delayed
+SHP10198,03-09-2024,Bengaluru,Ahmedabad,FedEx,922.42,4.37,3.85,4409.72,Delivered
+SHP10470,11-30-2024,Jaipur,Delhi,DELHIVERY,743.97,,2.5,3484.95,Delivered
+SHP10855,12-03-2024,Chennai,Delhi,BlueDart,251.69,46.73,0.5,1807.04,Delivered
+SHP10694,2024-06-15,Ahmedabad,Bengaluru,BlueDart,1019.08,43.87,3.66,4158.52,Delivered
+SHP10266,06-30-2024,Hyderabad,Pune,dhl,1089.86,6.55,3.37,5005.02,Returned
+SHP10615,07/11/2024,Bengaluru,Hyderabad,Delhivery,304.1,5.65,2.01,1275.04,Delivered
+SHP10732,02-12-2024,Jaipur,Kolkata,Blue Dart,925.47,10.13,3.02,4990.35,Delivered
+SHP10492,2024-10-07,Delhi,Bengaluru,fedex,1261.14,2.16,3.58,7024.91,Cancelled
+SHP10130,11-17-2024,Jaipur,Kolkata,ups,584.59,29.85,3.13,2704.8,Delivered
+SHP10338,01-24-2024,Hyderabad,Kolkata,DHL,666.86,10.63,1.59,,Delivered
+SHP10978,2024-05-14,Bengaluru,Delhi,FEDEX,140.16,13.29,0.5,963.02,Delayed
+SHP10489,08-27-2024,Bengaluru,Ahmedabad,delhivery,508.7,7.53,2.79,2701.02,In Transit
+SHP10572,10-14-2024,Ahmedabad,Mumbai,Fed Ex,1174.93,28.73,3.85,6944.98,Delayed
+SHP10606,2024-11-01,Nagpur,Bengaluru,fedex,588.02,22.01,2.19,3431.13,Delivered
+SHP10193,03-25-2024,Chennai,Delhi,D.H.L,830.88,12.04,3.36,4788.53,Cancelled
+SHP10140,12/03/2024,Bengaluru,Kolkata,D.H.L,703.18,16.57,0.5,3525.23,Delivered
+SHP10416,2024-09-28,Pune,Delhi,FEDEX,882.73,0.71,3.56,3516.68,Delivered
+SHP10660,2024-07-17,Mumbai,Nagpur,fedex,455.68,,2.24,2944.23,Delayed
+SHP10476,25/11/2024,Delhi,Kolkata,BlueDart,427.06,12.12,1.61,1959.34,Delivered
+SHP10714,08-01-2024,Hyderabad,Mumbai,Delhivery,949.22,19.44,5.76,4092.69,Delivered
+SHP10152,05/05/2024,Nagpur,Ahmedabad,D.H.L,304.97,22.12,0.6,1622.24,Delivered
+SHP10849,2024-10-05,Bengaluru,Ahmedabad,delhivery,784.54,32.29,2.91,4104.87,Delivered
+SHP10913,09/03/2024,Bengaluru,Chennai,fedex,328.61,19.53,2.0,1443.3,Delivered
+SHP10010,2024-09-13,Chennai,Nagpur,BlueDart,1039.77,,3.95,4124.72,Delivered
+SHP10269,2024-06-05,Jaipur,Nagpur,dhl,643.79,8.15,2.4,3677.77,Delivered
+SHP10096,15/05/2024,Mumbai,Bengaluru,dhl,797.23,29.97,3.52,5428.21,In Transit
+SHP10210,2024-03-23,Bengaluru,Nagpur,dhl,666.95,3.97,0.51,2926.17,Delivered
+SHP10999,2024-04-29,Chennai,Ahmedabad,FEDEX,720.38,7.77,1.32,3170.16,Delivered
+SHP10752,12-12-2024,Chennai,Hyderabad,ups,216.11,19.1,1.91,1302.21,In Transit
+SHP10569,2024-03-23,Jaipur,Ahmedabad,BlueDart,1085.26,22.99,4.24,6100.57,Delivered
+SHP10813,2024-01-03,Ahmedabad,Pune,FedEx,741.13,19.74,1.34,4683.16,Cancelled
+SHP10775,01-17-2024,Jaipur,Hyderabad,Blue Dart,630.23,21.0,2.11,,Delivered
+SHP10871,03/10/2024,Mumbai,Jaipur,D.H.L,546.39,5.73,1.68,3227.0,Delivered
+SHP10548,01-20-2024,Nagpur,Pune,BlueDart,174.42,13.65,1.47,9563.610212131709,Delivered
+SHP10958,2024-04-26,Ahmedabad,Chennai,UPS,448.39,10.75,4.37,,Delivered
+SHP10532,2024-04-09,Kolkata,Hyderabad,D.H.L,620.88,34.16,3.27,3997.44,Delivered
+SHP10948,06/03/2024,Hyderabad,Pune,delhivery,769.19,7.49,3.33,3514.02,Delivered
+SHP10332,03-04-2024,Ahmedabad,Mumbai,ups,74.96,4.73,0.5,448.73,In Transit
+SHP10075,25/03/2024,Bengaluru,Delhi,Delhivery,733.44,15.03,1.31,3908.99,Delivered
+SHP10712,2024-11-13,Pune,Chennai,dhl,801.98,11.56,,4347.48,Delayed
+SHP10077,2024-08-20,Jaipur,Kolkata,fedex,1185.55,28.84,5.38,6311.98,Delivered
+SHP10263,07/03/2024,Jaipur,Ahmedabad,Blue Dart,736.07,1.73,4.36,3333.42,Delivered
+SHP10487,2024-05-12,Jaipur,Bengaluru,BlueDart,772.61,19.76,2.63,3462.89,In Transit
+SHP10149,2024-09-24,Mumbai,Hyderabad,UPS,241.92,3.36,2.09,1297.06,Cancelled
+SHP10947,2024-12-30,Nagpur,Hyderabad,DELHIVERY,170.02,22.81,1.96,1142.51,Delayed
+SHP10514,18/04/2024,Delhi,Ahmedabad,blue dart,1224.14,10.67,5.31,5206.16,Delivered
+SHP10955,2024-07-21,Kolkata,Mumbai,DHL,266.48,15.98,0.5,1838.7,Delivered
+SHP10469,2024-12-01,Kolkata,Delhi,DHL,1201.85,17.76,4.11,5880.11,Delayed
+SHP10564,10-21-2024,Kolkata,Jaipur,FedEx,252.8,6.84,0.5,1487.6,Delivered
+SHP10774,2024-04-23,Delhi,Jaipur,ups,402.89,18.62,2.99,2059.59,In Transit
+SHP10461,08/02/2024,Chennai,Ahmedabad,U.P.S.,404.28,26.48,1.98,2172.35,Delivered
+SHP10253,02-12-2024,Hyderabad,Jaipur,UPS,485.58,30.53,2.95,2325.35,In Transit
+SHP10968,2024-03-15,Jaipur,Mumbai,FEDEX,851.83,21.13,4.74,3945.66,In Transit
+SHP10771,2024-12-20,Jaipur,Delhi,FedEx,492.54,2.9,2.8,2729.3,Cancelled
+SHP10845,2024-06-08,Nagpur,Ahmedabad,U.P.S.,221.99,15.95,0.5,1312.17,Delivered
+SHP10369,12/06/2024,Delhi,Chennai,Blue Dart,1050.91,15.94,5.87,6050.05,Cancelled
+SHP10321,04-12-2024,Nagpur,Chennai,blue dart,456.54,17.17,0.91,2043.87,Delivered
+SHP10695,2024-06-15,Kolkata,Delhi,U.P.S.,646.74,3.93,2.3,3381.97,Delivered
+SHP10151,03/06/2024,Hyderabad,Bengaluru,UPS,238.1,17.02,0.93,1511.08,Delivered
+SHP10964,16/12/2024,Ahmedabad,Mumbai,FEDEX,1132.89,12.16,4.94,5465.56,Delivered
+SHP10302,09/08/2024,Nagpur,Jaipur,,414.72,,1.57,1791.02,Delayed
+SHP10190,2024-09-24,Ahmedabad,Kolkata,delhivery,465.14,4.41,2.59,2250.86,Delivered
+SHP10586,08-22-2024,Nagpur,Bengaluru,Delhivery,494.66,12.76,1.07,2225.2,Delayed
+SHP10348,08-10-2024,Delhi,Jaipur,,1071.04,10.11,,5420.76,Delivered
+SHP10243,12-22-2024,Pune,Hyderabad,delhivery,734.35,7.35,,24387.982128015443,Delivered
+SHP10793,09/09/2024,Nagpur,Jaipur,BlueDart,520.39,48.16,2.63,3982.1,Delivered
+SHP10087,2024-09-22,Kolkata,Chennai,Blue Dart,922.58,13.66,4.03,5014.05,Returned
+SHP10751,10-12-2024,Mumbai,Jaipur,D.H.L,253.53,11.11,0.5,1502.85,Delivered
+SHP10655,03-22-2024,Nagpur,Jaipur,U.P.S.,537.38,25.02,1.87,2542.75,Delivered
+SHP10924,2024-03-02,Mumbai,Chennai,Fed Ex,841.09,5.32,3.26,3784.75,In Transit
+SHP10778,07-13-2024,Ahmedabad,Mumbai,dhl,809.67,12.14,1.72,4408.82,Returned
+SHP10418,2024-05-29,Chennai,Delhi,Delhivery,623.53,26.72,1.52,3460.58,Delivered
+SHP10288,13/02/2024,Pune,Kolkata,ups,978.82,20.27,2.87,4155.82,In Transit
+SHP10648,07-12-2024,Ahmedabad,Delhi,D.H.L,628.92,3.47,4.43,2965.79,Delivered
+SHP10166,2024-12-26,Delhi,Hyderabad,DELHIVERY,942.15,13.42,4.27,5254.64,Delivered
+SHP10595,06-18-2024,Jaipur,Pune,Blue Dart,703.26,13.57,2.31,4195.91,Cancelled
+SHP10952,2024-03-07,Pune,Nagpur,delhivery,349.51,11.41,2.46,1921.29,In Transit
+SHP10155,2024-09-17,Hyderabad,Mumbai,dhl,598.88,1.21,2.7,2949.98,Delivered
+SHP10356,2024-04-06,Nagpur,Ahmedabad,D.H.L,231.85,7.86,,1493.13,Delivered
+SHP10381,04/11/2024,Mumbai,Pune,DHL,606.55,4.04,1.98,2823.13,Delivered
+SHP10279,12-21-2024,Chennai,Pune,Fed Ex,684.16,27.87,3.07,3857.48,Returned
+SHP10126,10-19-2024,Nagpur,Delhi,dhl,1115.56,31.35,3.93,5719.15,Cancelled
+SHP10707,23/01/2024,Bengaluru,Ahmedabad,delhivery,1132.89,8.35,,5764.97,Cancelled
+SHP10777,09-07-2024,Hyderabad,Kolkata,FEDEX,468.31,13.61,0.59,1833.05,Delivered
+SHP10022,01-03-2024,Bengaluru,Jaipur,dhl,603.65,7.36,2.59,2361.67,Delivered
+SHP10616,15/08/2024,Delhi,Bengaluru,delhivery,1265.54,3.27,5.42,5193.27,Delivered
+SHP10665,2024-02-21,Nagpur,,dhl,647.77,2.23,3.85,3581.91,Returned
+SHP10282,07-14-2024,Bengaluru,Pune,BlueDart,969.79,17.72,3.82,4833.73,Delivered
+SHP10903,01-20-2024,Mumbai,Delhi,Blue Dart,299.45,21.81,0.9,1900.96,Delivered
+SHP10471,07-19-2024,Bengaluru,Kolkata,fedex,637.31,6.43,2.72,3399.55,Delivered
+SHP10738,2024-06-09,Jaipur,Hyderabad,ups,1111.96,8.0,3.6,5111.1,Delivered
+SHP10367,12-15-2024,Jaipur,Pune,U.P.S.,439.6,17.26,1.13,2742.74,In Transit
+SHP10025,11-30-2024,Jaipur,Pune,dhl,1201.07,71.47,5.15,7727.34,Delivered
+SHP10196,2024-07-16,Jaipur,Hyderabad,dhl,640.01,4.57,1.29,2745.94,Returned
+SHP10064,07-19-2024,Pune,Hyderabad,blue dart,337.82,0.71,0.95,1692.35,Delivered
+SHP10015,08-12-2024,Kolkata,Delhi,fedex,339.3,,1.64,1856.74,Delivered
+SHP10466,2024-05-06,Chennai,Ahmedabad,dhl,877.14,24.47,4.69,4287.35,Delivered
+SHP10297,2024-01-26,Mumbai,Kolkata,Blue Dart,556.51,7.02,3.28,2870.26,In Transit
+SHP10883,04-06-2024,Pune,Ahmedabad,dhl,1043.28,7.6,4.84,4101.58,Delivered
+SHP10621,03-17-2024,Pune,Kolkata,BlueDart,1035.8,11.27,5.04,6004.46,Delivered
+SHP10336,23/06/2024,Ahmedabad,Delhi,U.P.S.,976.24,24.38,5.04,3883.45,In Transit
+SHP10820,02-06-2024,Jaipur,Pune,blue dart,602.35,4.34,0.68,3236.81,Delivered
+SHP10026,07-07-2024,Kolkata,Delhi,DHL,537.15,-12.0,1.88,2244.15,Delivered
+SHP10588,12/07/2024,Jaipur,Hyderabad,U.P.S.,860.31,28.53,2.48,3889.03,In Transit
+SHP10043,26/01/2024,Mumbai,Ahmedabad,fedex,471.68,3.14,2.69,,Delivered
+SHP10497,11-06-2024,Kolkata,Ahmedabad,BlueDart,657.73,15.31,3.42,3434.5,Delivered
+SHP10792,2024-07-30,Mumbai,Hyderabad,D.H.L,1067.85,13.51,5.86,4882.99,Delivered
+SHP10515,10-05-2024,Bengaluru,Delhi,FedEx,679.91,11.18,1.74,3299.53,Returned
+SHP10970,02/06/2024,Kolkata,Bengaluru,BlueDart,625.16,37.51,0.79,3192.39,Cancelled
+SHP10561,2024-07-30,Kolkata,Jaipur,D.H.L,757.14,4.61,3.59,,Cancelled
+SHP10917,2024-03-10,Pune,Ahmedabad,D.H.L,450.47,25.24,0.5,2432.73,Delivered
+SHP10454,2024-01-13,Pune,Hyderabad,FEDEX,714.71,12.91,2.92,3147.39,In Transit
+SHP10387,13/04/2024,Delhi,Chennai,dhl,522.85,7.11,3.65,2620.04,Delayed
+SHP10071,2024-11-06,Jaipur,Ahmedabad,DHL,401.99,6.78,,2025.13,Delivered
+SHP10542,01-12-2024,Mumbai,,blue dart,480.56,16.63,1.72,1936.06,Delivered
+SHP10456,20/09/2024,Bengaluru,Hyderabad,Blue Dart,203.58,27.98,0.5,1559.62,In Transit
+SHP10633,05-24-2024,Delhi,Mumbai,blue dart,504.61,30.44,1.17,2986.04,Delivered
+SHP10431,02/10/2024,Pune,Kolkata,DELHIVERY,519.97,18.96,3.06,2852.45,Delivered
+SHP10627,09-26-2024,Kolkata,Ahmedabad,DHL,718.75,14.03,2.7,4524.37,Delivered
+SHP10653,03-07-2024,Mumbai,Delhi,UPS,885.08,34.02,4.78,4265.85,Delivered
+SHP10728,2024-08-28,Jaipur,Delhi,DHL,478.23,8.58,0.94,2506.67,Delivered
+SHP10264,22/04/2024,Kolkata,Ahmedabad,ups,591.05,23.83,3.19,3110.39,Delivered
+SHP10209,2024-10-04,Delhi,Kolkata,UPS,557.29,11.63,2.76,2442.3,Delivered
+SHP10316,2024-07-30,Delhi,Nagpur,ups,874.64,7.56,2.25,4597.59,Delivered
+SHP10896,02-17-2024,Bengaluru,Delhi,blue dart,224.98,4.64,0.5,977.92,In Transit
+SHP10513,03-01-2024,Bengaluru,Mumbai,D.H.L,357.08,11.2,0.5,2019.53,Delivered
+SHP10313,2024-01-25,Hyderabad,Jaipur,Delhivery,871.8,4.57,4.46,4453.87,Delivered
+SHP10534,14/02/2024,Pune,Bengaluru,FedEx,911.75,28.37,2.99,4096.92,Delivered
+SHP10829,11-18-2024,Mumbai,Hyderabad,DHL,830.24,39.87,4.43,4893.21,Returned
+SHP10319,2024-06-19,Ahmedabad,Nagpur,Fed Ex,530.67,17.56,3.9,2430.13,In Transit
+SHP10007,29/05/2024,Jaipur,Hyderabad,Delhivery,310.01,,1.93,1645.43,In Transit
+SHP10393,2024-07-30,Jaipur,Bengaluru,FedEx,266.39,17.93,0.5,1348.53,Delivered
+SHP10141,04-13-2024,Delhi,Mumbai,Fed Ex,324.03,17.12,2.77,1374.23,Delivered
+SHP10086,07-29-2024,Jaipur,Bengaluru,Blue Dart,1176.11,12.39,7.88,6024.62,Delivered
+SHP10864,10-20-2024,Hyderabad,Pune,blue dart,1013.2,,3.79,5276.22,Delivered
+SHP10478,2024-10-27,Delhi,Pune,fedex,385.14,8.17,1.18,1501.96,Delivered
+SHP10503,13/06/2024,Ahmedabad,Jaipur,blue dart,455.12,14.68,1.49,2375.76,Delivered
+SHP10753,05-18-2024,Kolkata,Nagpur,delhivery,15.0,27.87,1.23,743.71,Delivered
+SHP10215,01-03-2024,Chennai,Nagpur,BlueDart,641.59,15.43,2.99,3780.84,Returned
+SHP10580,2024-02-15,Jaipur,Nagpur,blue dart,1603.96,14.96,5.87,7280.59,In Transit
+SHP10562,2024-10-03,Jaipur,Kolkata,dhl,630.45,39.09,2.86,3764.66,Delivered
+SHP10398,07/08/2024,Bengaluru,Hyderabad,D.H.L,219.73,6.95,1.23,1426.76,In Transit
+SHP10925,2024-01-13,Hyderabad,Jaipur,Blue Dart,760.68,27.94,2.1,4355.94,In Transit
+SHP10668,01-09-2024,Nagpur,Ahmedabad,ups,764.95,40.12,2.45,4565.77,In Transit
+SHP10490,2024-09-13,Kolkata,Nagpur,D.H.L,255.3,6.58,0.5,1260.34,Delivered
+SHP10252,09/02/2024,Mumbai,Chennai,DHL,1063.32,13.31,5.02,4744.63,Delivered
+SHP10907,09-26-2024,Chennai,Jaipur,D.H.L,184.4,,0.5,1346.17,Delivered
+SHP10468,16/04/2024,Delhi,Bengaluru,DELHIVERY,484.75,38.85,4.67,2940.3,Delivered
+SHP10914,2024-03-12,Chennai,Kolkata,UPS,879.29,41.1,2.53,5517.58,Delayed
+SHP10357,2024-05-25,Mumbai,Kolkata,DHL,847.05,7.14,1.8,3481.6,In Transit
+SHP10254,08-21-2024,Nagpur,Kolkata,Blue Dart,921.58,,3.9,5625.76,Delivered
+SHP10276,10-21-2024,Hyderabad,Pune,dhl,474.39,9.86,3.74,1957.47,Returned
+SHP10178,07-23-2024,Jaipur,Kolkata,dhl,979.76,20.94,2.89,4187.23,In Transit
+SHP10281,2024-10-03,Bengaluru,Pune,Blue Dart,600.87,9.39,1.94,2909.06,Delivered
+SHP10390,28/04/2024,Pune,Chennai,dhl,675.8,0.84,3.57,2499.39,Delivered
+SHP10508,09-28-2024,Bengaluru,Ahmedabad,Delhivery,649.81,17.3,2.09,3603.11,Delivered
+SHP10749,27/04/2024,Delhi,Bengaluru,dhl,15.0,20.16,0.5,561.32,Delivered
+SHP10583,12/06/2024,Jaipur,Mumbai,D.H.L,994.55,6.2,,5486.06,Delayed
+SHP10972,25/06/2024,Mumbai,Ahmedabad,Delhivery,1121.0,31.43,,5087.21,Delayed
+SHP10129,12-07-2024,Delhi,Pune,delhivery,828.07,36.34,3.69,4462.73,Delivered
+SHP10144,03-04-2024,Chennai,Nagpur,U.P.S.,948.65,26.09,3.59,4140.21,In Transit
+SHP10960,11-27-2024,Nagpur,Bengaluru,FEDEX,144.46,21.85,1.65,1019.89,Delivered
+SHP10847,09/02/2024,Jaipur,Hyderabad,Blue Dart,738.0,5.57,3.08,3798.94,Delivered
+SHP10645,2024-10-07,Bengaluru,Mumbai,FEDEX,397.81,17.25,1.07,2094.31,In Transit
+SHP10715,09-12-2024,Jaipur,Bengaluru,delhivery,658.04,27.57,2.38,4075.41,Delivered
+SHP10905,27/12/2024,Hyderabad,Chennai,UPS,388.75,40.85,1.14,2615.82,In Transit
+SHP10767,12-09-2024,Ahmedabad,Bengaluru,dhl,785.92,13.19,3.12,4386.79,Returned
+SHP10072,05-31-2024,Pune,Bengaluru,Delhivery,964.75,5.58,3.64,4437.39,Delivered
+SHP10908,2024-08-20,Nagpur,Hyderabad,U.P.S.,299.43,4.8,1.41,,Delivered
+SHP10235,12-19-2024,Chennai,Nagpur,FedEx,992.08,13.45,1.75,5127.18,In Transit
+SHP10037,2024-06-03,Delhi,Hyderabad,BlueDart,426.92,6.52,1.72,2682.6,Returned
